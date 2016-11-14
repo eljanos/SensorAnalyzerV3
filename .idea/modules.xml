@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/HSensor/HSensor.iml" filepath="$PROJECT_DIR$/HSensor/HSensor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MSHPOAInputReader/MSHPOAInputReader.iml" filepath="$PROJECT_DIR$/MSHPOAInputReader/MSHPOAInputReader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PSensor/PSensor.iml" filepath="$PROJECT_DIR$/PSensor/PSensor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SensorAnalyzer/SensorAnalyzer.iml" filepath="$PROJECT_DIR$/SensorAnalyzer/SensorAnalyzer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SensorAnalyzerV3.iml" filepath="$PROJECT_DIR$/SensorAnalyzerV3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TSensor/TSensor.iml" filepath="$PROJECT_DIR$/TSensor/TSensor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/common.iml" filepath="$PROJECT_DIR$/common/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/runnable/runnable.iml" filepath="$PROJECT_DIR$/runnable/runnable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sensorLogger/sensorLogger.iml" filepath="$PROJECT_DIR$/sensorLogger/sensorLogger.iml" />
+    </modules>
+  </component>
+</project>

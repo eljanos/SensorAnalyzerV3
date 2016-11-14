@@ -1,0 +1,1190 @@
+2016-11-09 17:14:13,285 INFO  sensorlogger - SensorLogger.java:15   - Démarrage de l'analyzer
+2016-11-09 17:18:54,486 INFO  sensorlogger - SensorLogger.java:15   - Démarrage de l'analyzer
+2016-11-09 17:18:54,486 INFO  sensorlogger - SensorLogger.java:15   - Démarrage de l'analyzer
+2016-11-09 17:20:17,324 INFO  sensorlogger - SensorLogger.java:15   - Démarrage de l'analyzer
+2016-11-09 17:20:17,324 INFO  sensorlogger - SensorLogger.java:15   - Démarrage de l'analyzer
+2016-11-09 17:21:23,282 INFO  sensorlogger - SensorLogger.java:15   - Démarrage de l'analyzer
+2016-11-09 17:28:16,541 INFO  sensorlogger - SensorLogger.java:15   - Démarrage de l'analyzer
+2016-11-09 17:28:16,550 INFO  sensorlogger - SensorLogger.java:15   - retour lecture #fichier qui roxxe
+2016-11-09 17:28:16,577 INFO  sensorlogger - SensorLogger.java:15   - retour lecture Mont Aigoul,6
+2016-11-09 17:28:16,583 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,20.5
+2016-11-09 17:28:16,586 INFO  sensorlogger - SensorLogger.java:15   - retour lecture P,BAR,2014-11-01,1014
+2016-11-09 17:28:16,588 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H,25,
+2016-11-09 17:28:16,589 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H
+2016-11-09 17:28:16,589 INFO  sensorlogger - SensorLogger.java:15   - ERROR ligne : H
+2016-11-09 17:28:16,589 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T
+2016-11-09 17:28:16,590 INFO  sensorlogger - SensorLogger.java:15   - ERROR ligne : T
+2016-11-09 17:28:16,590 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,21
+2016-11-09 17:28:16,590 INFO  sensorlogger - SensorLogger.java:15   - retour lecture P,BAR,2014-11-02,1014
+2016-11-09 17:28:16,591 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H,25
+2016-11-09 17:28:16,591 INFO  sensorlogger - SensorLogger.java:15   - retour lecture Clapiers,9
+2016-11-09 17:28:16,591 INFO  sensorlogger - SensorLogger.java:15   - retour lecture P,BAR,2014-11-02,1012
+2016-11-09 17:28:16,591 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,24.3
+2016-11-09 17:28:16,596 INFO  sensorlogger - SensorLogger.java:15   - retour lecture P,BAR,2014-11-01,1001
+2016-11-09 17:28:16,596 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,22.2
+2016-11-09 17:28:16,596 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H,1
+2016-11-09 17:28:16,597 INFO  sensorlogger - SensorLogger.java:15   - retour lecture P,BAR,2014-11-03,999
+2016-11-09 17:28:16,597 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H,5
+2016-11-09 17:28:16,597 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,26.2
+2016-11-09 17:28:16,598 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H,8
+2016-11-09 17:28:16,598 INFO  sensorlogger - SensorLogger.java:15   - retour lecture Montpellier,3
+2016-11-09 17:28:16,598 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,100
+2016-11-09 17:28:16,599 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,22.6
+2016-11-09 17:28:16,599 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,19.9
+2016-11-09 17:28:16,599 INFO  sensorlogger - SensorLogger.java:15   - retour lecture Paris,9
+2016-11-09 17:28:16,599 INFO  sensorlogger - SensorLogger.java:15   - retour lecture P,BAR,2014-11-02,1012
+2016-11-09 17:28:16,600 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,1
+2016-11-09 17:28:16,600 INFO  sensorlogger - SensorLogger.java:15   - retour lecture P,BAR,2014-11-01,1001
+2016-11-09 17:28:16,600 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,-50
+2016-11-09 17:28:16,600 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H,95
+2016-11-09 17:28:16,601 INFO  sensorlogger - SensorLogger.java:15   - retour lecture P,BAR,2014-11-03,999
+2016-11-09 17:28:16,601 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H,85
+2016-11-09 17:28:16,601 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,-1
+2016-11-09 17:28:16,601 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H,88
+2016-11-09 17:47:41,354 INFO  sensorlogger - SensorLogger.java:15   - Démarrage de l'analyzer
+2016-11-09 17:47:41,361 INFO  sensorlogger - SensorLogger.java:15   - retour lecture #fichier qui roxxe
+2016-11-09 17:47:41,361 INFO  sensorlogger - SensorLogger.java:15   - retour lecture Mont Aigoul,6
+2016-11-09 17:47:41,367 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,20.5
+2016-11-09 17:47:41,370 INFO  sensorlogger - SensorLogger.java:15   - retour lecture P,BAR,2014-11-01,1014
+2016-11-09 17:47:41,371 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H,25,
+2016-11-09 17:47:41,372 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H
+2016-11-09 17:47:41,373 INFO  sensorlogger - SensorLogger.java:15   - ERROR ligne : H
+2016-11-09 17:47:41,373 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T
+2016-11-09 17:47:41,373 INFO  sensorlogger - SensorLogger.java:15   - ERROR ligne : T
+2016-11-09 17:47:41,374 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,21
+2016-11-09 17:47:41,374 INFO  sensorlogger - SensorLogger.java:15   - retour lecture P,BAR,2014-11-02,1014
+2016-11-09 17:47:41,374 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H,25
+2016-11-09 17:47:41,374 INFO  sensorlogger - SensorLogger.java:15   - retour lecture Clapiers,9
+2016-11-09 17:47:41,374 INFO  sensorlogger - SensorLogger.java:15   - retour lecture P,BAR,2014-11-02,1012
+2016-11-09 17:47:41,375 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,24.3
+2016-11-09 17:47:41,378 INFO  sensorlogger - SensorLogger.java:15   - retour lecture P,BAR,2014-11-01,1001
+2016-11-09 17:47:41,378 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,22.2
+2016-11-09 17:47:41,379 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H,1
+2016-11-09 17:47:41,379 INFO  sensorlogger - SensorLogger.java:15   - retour lecture P,BAR,2014-11-03,999
+2016-11-09 17:47:41,379 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H,5
+2016-11-09 17:47:41,379 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,26.2
+2016-11-09 17:47:41,380 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H,8
+2016-11-09 17:47:41,380 INFO  sensorlogger - SensorLogger.java:15   - retour lecture Montpellier,3
+2016-11-09 17:47:41,380 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,100
+2016-11-09 17:47:41,380 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,22.6
+2016-11-09 17:47:41,381 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,19.9
+2016-11-09 17:47:41,381 INFO  sensorlogger - SensorLogger.java:15   - retour lecture Paris,9
+2016-11-09 17:47:41,381 INFO  sensorlogger - SensorLogger.java:15   - retour lecture P,BAR,2014-11-02,1012
+2016-11-09 17:47:41,381 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,1
+2016-11-09 17:47:41,381 INFO  sensorlogger - SensorLogger.java:15   - retour lecture P,BAR,2014-11-01,1001
+2016-11-09 17:47:41,382 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,-50
+2016-11-09 17:47:41,382 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H,95
+2016-11-09 17:47:41,382 INFO  sensorlogger - SensorLogger.java:15   - retour lecture P,BAR,2014-11-03,999
+2016-11-09 17:47:41,382 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H,85
+2016-11-09 17:47:41,382 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,-1
+2016-11-09 17:47:41,383 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H,88
+2016-11-09 17:50:03,692 INFO  sensorlogger - SensorLogger.java:15   - Démarrage de l'analyzer
+2016-11-09 17:50:03,697 INFO  sensorlogger - SensorLogger.java:15   - retour lecture #fichier qui roxxe
+2016-11-09 17:50:03,697 INFO  sensorlogger - SensorLogger.java:15   - retour lecture Mont Aigoul,6
+2016-11-09 17:50:03,701 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,20.5
+2016-11-09 17:50:03,703 INFO  sensorlogger - SensorLogger.java:15   - retour lecture P,BAR,2014-11-01,1014
+2016-11-09 17:50:03,704 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H,25,
+2016-11-09 17:50:03,704 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H
+2016-11-09 17:50:03,705 INFO  sensorlogger - SensorLogger.java:15   - ERROR ligne : H
+2016-11-09 17:50:03,705 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T
+2016-11-09 17:50:03,705 INFO  sensorlogger - SensorLogger.java:15   - ERROR ligne : T
+2016-11-09 17:50:03,705 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,21
+2016-11-09 17:50:03,705 INFO  sensorlogger - SensorLogger.java:15   - retour lecture P,BAR,2014-11-02,1014
+2016-11-09 17:50:03,706 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H,25
+2016-11-09 17:50:03,706 INFO  sensorlogger - SensorLogger.java:15   - retour lecture Clapiers,9
+2016-11-09 17:50:03,706 INFO  sensorlogger - SensorLogger.java:15   - retour lecture P,BAR,2014-11-02,1012
+2016-11-09 17:50:03,706 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,24.3
+2016-11-09 17:50:03,709 INFO  sensorlogger - SensorLogger.java:15   - retour lecture P,BAR,2014-11-01,1001
+2016-11-09 17:50:03,709 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,22.2
+2016-11-09 17:50:03,709 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H,1
+2016-11-09 17:50:03,709 INFO  sensorlogger - SensorLogger.java:15   - retour lecture P,BAR,2014-11-03,999
+2016-11-09 17:50:03,709 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H,5
+2016-11-09 17:50:03,710 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,26.2
+2016-11-09 17:50:03,710 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H,8
+2016-11-09 17:50:03,710 INFO  sensorlogger - SensorLogger.java:15   - retour lecture Montpellier,3
+2016-11-09 17:50:03,710 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,100
+2016-11-09 17:50:03,710 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,22.6
+2016-11-09 17:50:03,710 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,19.9
+2016-11-09 17:50:03,711 INFO  sensorlogger - SensorLogger.java:15   - retour lecture Paris,9
+2016-11-09 17:50:03,711 INFO  sensorlogger - SensorLogger.java:15   - retour lecture P,BAR,2014-11-02,1012
+2016-11-09 17:50:03,711 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,1
+2016-11-09 17:50:03,711 INFO  sensorlogger - SensorLogger.java:15   - retour lecture P,BAR,2014-11-01,1001
+2016-11-09 17:50:03,711 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,-50
+2016-11-09 17:50:03,711 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H,95
+2016-11-09 17:50:03,712 INFO  sensorlogger - SensorLogger.java:15   - retour lecture P,BAR,2014-11-03,999
+2016-11-09 17:50:03,712 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H,85
+2016-11-09 17:50:03,712 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,-1
+2016-11-09 17:50:03,712 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H,88
+2016-11-09 17:52:13,505 INFO  sensorlogger - SensorLogger.java:15   - Démarrage de l'analyzer
+2016-11-09 17:52:13,511 INFO  sensorlogger - SensorLogger.java:15   - retour lecture #fichier qui roxxe
+2016-11-09 17:52:13,511 INFO  sensorlogger - SensorLogger.java:15   - retour lecture Mont Aigoul,6
+2016-11-09 17:52:13,515 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,20.5
+2016-11-09 17:52:13,517 INFO  sensorlogger - SensorLogger.java:15   - retour lecture P,BAR,2014-11-01,1014
+2016-11-09 17:52:13,517 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H,25,
+2016-11-09 17:52:13,518 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H
+2016-11-09 17:52:13,518 INFO  sensorlogger - SensorLogger.java:15   - ERROR ligne : H
+2016-11-09 17:52:13,518 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T
+2016-11-09 17:52:13,518 INFO  sensorlogger - SensorLogger.java:15   - ERROR ligne : T
+2016-11-09 17:52:13,518 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,21
+2016-11-09 17:52:13,519 INFO  sensorlogger - SensorLogger.java:15   - retour lecture P,BAR,2014-11-02,1014
+2016-11-09 17:52:13,519 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H,25
+2016-11-09 17:52:13,519 INFO  sensorlogger - SensorLogger.java:15   - retour lecture Clapiers,9
+2016-11-09 17:52:13,519 INFO  sensorlogger - SensorLogger.java:15   - retour lecture P,BAR,2014-11-02,1012
+2016-11-09 17:52:13,519 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,24.3
+2016-11-09 17:52:13,521 INFO  sensorlogger - SensorLogger.java:15   - retour lecture P,BAR,2014-11-01,1001
+2016-11-09 17:52:13,521 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,22.2
+2016-11-09 17:52:13,521 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H,1
+2016-11-09 17:52:13,521 INFO  sensorlogger - SensorLogger.java:15   - retour lecture P,BAR,2014-11-03,999
+2016-11-09 17:52:13,522 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H,5
+2016-11-09 17:52:13,522 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,26.2
+2016-11-09 17:52:13,522 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H,8
+2016-11-09 17:52:13,522 INFO  sensorlogger - SensorLogger.java:15   - retour lecture Montpellier,3
+2016-11-09 17:52:13,522 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,100
+2016-11-09 17:52:13,522 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,22.6
+2016-11-09 17:52:13,522 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,19.9
+2016-11-09 17:52:13,522 INFO  sensorlogger - SensorLogger.java:15   - retour lecture Paris,9
+2016-11-09 17:52:13,523 INFO  sensorlogger - SensorLogger.java:15   - retour lecture P,BAR,2014-11-02,1012
+2016-11-09 17:52:13,523 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,1
+2016-11-09 17:52:13,523 INFO  sensorlogger - SensorLogger.java:15   - retour lecture P,BAR,2014-11-01,1001
+2016-11-09 17:52:13,523 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,-50
+2016-11-09 17:52:13,523 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H,95
+2016-11-09 17:52:13,523 INFO  sensorlogger - SensorLogger.java:15   - retour lecture P,BAR,2014-11-03,999
+2016-11-09 17:52:13,523 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H,85
+2016-11-09 17:52:13,523 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,-1
+2016-11-09 17:52:13,524 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H,88
+2016-11-09 17:55:10,255 INFO  sensorlogger - SensorLogger.java:15   - Démarrage de l'analyzer
+2016-11-09 17:55:10,259 INFO  sensorlogger - SensorLogger.java:15   - retour lecture #fichier qui roxxe
+2016-11-09 17:55:10,259 INFO  sensorlogger - SensorLogger.java:15   - retour lecture Mont Aigoul,6
+2016-11-09 17:55:10,262 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,20.5
+2016-11-09 17:55:10,264 INFO  sensorlogger - SensorLogger.java:15   - retour lecture P,BAR,2014-11-01,1014
+2016-11-09 17:55:10,265 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H,25,
+2016-11-09 17:55:10,265 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H
+2016-11-09 17:55:10,265 INFO  sensorlogger - SensorLogger.java:15   - ERROR ligne : H
+2016-11-09 17:55:10,266 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T
+2016-11-09 17:55:10,266 INFO  sensorlogger - SensorLogger.java:15   - ERROR ligne : T
+2016-11-09 17:55:10,266 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,21
+2016-11-09 17:55:10,266 INFO  sensorlogger - SensorLogger.java:15   - retour lecture P,BAR,2014-11-02,1014
+2016-11-09 17:55:10,266 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H,25
+2016-11-09 17:55:10,266 INFO  sensorlogger - SensorLogger.java:15   - retour lecture Clapiers,9
+2016-11-09 17:55:10,266 INFO  sensorlogger - SensorLogger.java:15   - retour lecture P,BAR,2014-11-02,1012
+2016-11-09 17:55:10,267 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,24.3
+2016-11-09 17:55:10,269 INFO  sensorlogger - SensorLogger.java:15   - retour lecture P,BAR,2014-11-01,1001
+2016-11-09 17:55:10,269 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,22.2
+2016-11-09 17:55:10,270 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H,1
+2016-11-09 17:55:10,270 INFO  sensorlogger - SensorLogger.java:15   - retour lecture P,BAR,2014-11-03,999
+2016-11-09 17:55:10,270 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H,5
+2016-11-09 17:55:10,270 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,26.2
+2016-11-09 17:55:10,270 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H,8
+2016-11-09 17:55:10,270 INFO  sensorlogger - SensorLogger.java:15   - retour lecture Montpellier,3
+2016-11-09 17:55:10,271 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,100
+2016-11-09 17:55:10,271 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,22.6
+2016-11-09 17:55:10,271 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,19.9
+2016-11-09 17:55:10,271 INFO  sensorlogger - SensorLogger.java:15   - retour lecture Paris,9
+2016-11-09 17:55:10,271 INFO  sensorlogger - SensorLogger.java:15   - retour lecture P,BAR,2014-11-02,1012
+2016-11-09 17:55:10,271 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,1
+2016-11-09 17:55:10,272 INFO  sensorlogger - SensorLogger.java:15   - retour lecture P,BAR,2014-11-01,1001
+2016-11-09 17:55:10,272 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,-50
+2016-11-09 17:55:10,272 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H,95
+2016-11-09 17:55:10,272 INFO  sensorlogger - SensorLogger.java:15   - retour lecture P,BAR,2014-11-03,999
+2016-11-09 17:55:10,272 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H,85
+2016-11-09 17:55:10,272 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,-1
+2016-11-09 17:55:10,273 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H,88
+2016-11-09 17:56:16,479 INFO  sensorlogger - SensorLogger.java:15   - Démarrage de l'analyzer
+2016-11-09 17:56:16,484 INFO  sensorlogger - SensorLogger.java:15   - retour lecture #fichier qui roxxe
+2016-11-09 17:56:16,484 INFO  sensorlogger - SensorLogger.java:15   - retour lecture Mont Aigoul,6
+2016-11-09 17:56:16,488 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,20.5
+2016-11-09 17:56:16,489 INFO  sensorlogger - SensorLogger.java:15   - retour lecture P,BAR,2014-11-01,1014
+2016-11-09 17:56:16,490 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H,25,
+2016-11-09 17:56:16,490 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H
+2016-11-09 17:56:16,491 INFO  sensorlogger - SensorLogger.java:15   - ERROR ligne : H
+2016-11-09 17:56:16,491 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T
+2016-11-09 17:56:16,491 INFO  sensorlogger - SensorLogger.java:15   - ERROR ligne : T
+2016-11-09 17:56:16,491 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,21
+2016-11-09 17:56:16,491 INFO  sensorlogger - SensorLogger.java:15   - retour lecture P,BAR,2014-11-02,1014
+2016-11-09 17:56:16,491 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H,25
+2016-11-09 17:56:16,491 INFO  sensorlogger - SensorLogger.java:15   - retour lecture Clapiers,9
+2016-11-09 17:56:16,491 INFO  sensorlogger - SensorLogger.java:15   - retour lecture P,BAR,2014-11-02,1012
+2016-11-09 17:56:16,492 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,24.3
+2016-11-09 17:56:16,494 INFO  sensorlogger - SensorLogger.java:15   - retour lecture P,BAR,2014-11-01,1001
+2016-11-09 17:56:16,494 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,22.2
+2016-11-09 17:56:16,494 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H,1
+2016-11-09 17:56:16,494 INFO  sensorlogger - SensorLogger.java:15   - retour lecture P,BAR,2014-11-03,999
+2016-11-09 17:56:16,494 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H,5
+2016-11-09 17:56:16,494 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,26.2
+2016-11-09 17:56:16,495 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H,8
+2016-11-09 17:56:16,495 INFO  sensorlogger - SensorLogger.java:15   - retour lecture Montpellier,3
+2016-11-09 17:56:16,495 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,100
+2016-11-09 17:56:16,495 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,22.6
+2016-11-09 17:56:16,495 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,19.9
+2016-11-09 17:56:16,495 INFO  sensorlogger - SensorLogger.java:15   - retour lecture Paris,9
+2016-11-09 17:56:16,496 INFO  sensorlogger - SensorLogger.java:15   - retour lecture P,BAR,2014-11-02,1012
+2016-11-09 17:56:16,496 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,1
+2016-11-09 17:56:16,496 INFO  sensorlogger - SensorLogger.java:15   - retour lecture P,BAR,2014-11-01,1001
+2016-11-09 17:56:16,496 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,-50
+2016-11-09 17:56:16,496 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H,95
+2016-11-09 17:56:16,496 INFO  sensorlogger - SensorLogger.java:15   - retour lecture P,BAR,2014-11-03,999
+2016-11-09 17:56:16,497 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H,85
+2016-11-09 17:56:16,497 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,-1
+2016-11-09 17:56:16,497 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H,88
+2016-11-09 17:58:36,198 INFO  sensorlogger - SensorLogger.java:15   - Démarrage de l'analyzer
+2016-11-09 17:58:36,204 INFO  sensorlogger - SensorLogger.java:15   - retour lecture #fichier qui roxxe
+2016-11-09 17:58:36,206 INFO  sensorlogger - SensorLogger.java:15   - retour lecture Mont Aigoul,6
+2016-11-09 17:58:36,209 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,20.5
+2016-11-09 17:58:36,211 INFO  sensorlogger - SensorLogger.java:15   - retour lecture P,BAR,2014-11-01,1014
+2016-11-09 17:58:36,212 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H,25,
+2016-11-09 17:58:36,212 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H
+2016-11-09 17:58:36,212 INFO  sensorlogger - SensorLogger.java:15   - ERROR ligne : H
+2016-11-09 17:58:36,213 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T
+2016-11-09 17:58:36,213 INFO  sensorlogger - SensorLogger.java:15   - ERROR ligne : T
+2016-11-09 17:58:36,213 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,21
+2016-11-09 17:58:36,213 INFO  sensorlogger - SensorLogger.java:15   - retour lecture P,BAR,2014-11-02,1014
+2016-11-09 17:58:36,213 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H,25
+2016-11-09 17:58:36,213 INFO  sensorlogger - SensorLogger.java:15   - retour lecture Clapiers,9
+2016-11-09 17:58:36,213 INFO  sensorlogger - SensorLogger.java:15   - retour lecture P,BAR,2014-11-02,1012
+2016-11-09 17:58:36,213 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,24.3
+2016-11-09 17:58:36,216 INFO  sensorlogger - SensorLogger.java:15   - retour lecture P,BAR,2014-11-01,1001
+2016-11-09 17:58:36,216 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,22.2
+2016-11-09 17:58:36,216 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H,1
+2016-11-09 17:58:36,217 INFO  sensorlogger - SensorLogger.java:15   - retour lecture P,BAR,2014-11-03,999
+2016-11-09 17:58:36,217 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H,5
+2016-11-09 17:58:36,217 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,26.2
+2016-11-09 17:58:36,217 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H,8
+2016-11-09 17:58:36,217 INFO  sensorlogger - SensorLogger.java:15   - retour lecture Montpellier,3
+2016-11-09 17:58:36,217 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,100
+2016-11-09 17:58:36,217 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,22.6
+2016-11-09 17:58:36,218 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,19.9
+2016-11-09 17:58:36,218 INFO  sensorlogger - SensorLogger.java:15   - retour lecture Paris,9
+2016-11-09 17:58:36,218 INFO  sensorlogger - SensorLogger.java:15   - retour lecture P,BAR,2014-11-02,1012
+2016-11-09 17:58:36,218 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,1
+2016-11-09 17:58:36,218 INFO  sensorlogger - SensorLogger.java:15   - retour lecture P,BAR,2014-11-01,1001
+2016-11-09 17:58:36,219 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,-50
+2016-11-09 17:58:36,219 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H,95
+2016-11-09 17:58:36,219 INFO  sensorlogger - SensorLogger.java:15   - retour lecture P,BAR,2014-11-03,999
+2016-11-09 17:58:36,219 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H,85
+2016-11-09 17:58:36,219 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,-1
+2016-11-09 17:58:36,219 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H,88
+2016-11-09 17:59:48,309 INFO  sensorlogger - SensorLogger.java:15   - Démarrage de l'analyzer
+2016-11-09 17:59:48,314 INFO  sensorlogger - SensorLogger.java:15   - retour lecture #fichier qui roxxe
+2016-11-09 17:59:48,314 INFO  sensorlogger - SensorLogger.java:15   - retour lecture Mont Aigoul,6
+2016-11-09 17:59:48,317 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,20.5
+2016-11-09 17:59:48,320 INFO  sensorlogger - SensorLogger.java:15   - retour lecture P,BAR,2014-11-01,1014
+2016-11-09 17:59:48,321 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H,25,
+2016-11-09 17:59:48,321 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H
+2016-11-09 17:59:48,322 INFO  sensorlogger - SensorLogger.java:15   - ERROR ligne : H
+2016-11-09 17:59:48,322 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T
+2016-11-09 17:59:48,322 INFO  sensorlogger - SensorLogger.java:15   - ERROR ligne : T
+2016-11-09 17:59:48,322 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,21
+2016-11-09 17:59:48,322 INFO  sensorlogger - SensorLogger.java:15   - retour lecture P,BAR,2014-11-02,1014
+2016-11-09 17:59:48,323 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H,25
+2016-11-09 17:59:48,323 INFO  sensorlogger - SensorLogger.java:15   - retour lecture Clapiers,9
+2016-11-09 17:59:48,323 INFO  sensorlogger - SensorLogger.java:15   - retour lecture P,BAR,2014-11-02,1012
+2016-11-09 17:59:48,323 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,24.3
+2016-11-09 17:59:48,326 INFO  sensorlogger - SensorLogger.java:15   - retour lecture P,BAR,2014-11-01,1001
+2016-11-09 17:59:48,327 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,22.2
+2016-11-09 17:59:48,327 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H,1
+2016-11-09 17:59:48,327 INFO  sensorlogger - SensorLogger.java:15   - retour lecture P,BAR,2014-11-03,999
+2016-11-09 17:59:48,328 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H,5
+2016-11-09 17:59:48,328 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,26.2
+2016-11-09 17:59:48,328 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H,8
+2016-11-09 17:59:48,328 INFO  sensorlogger - SensorLogger.java:15   - retour lecture Montpellier,3
+2016-11-09 17:59:48,328 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,100
+2016-11-09 17:59:48,329 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,22.6
+2016-11-09 17:59:48,329 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,19.9
+2016-11-09 17:59:48,329 INFO  sensorlogger - SensorLogger.java:15   - retour lecture Paris,9
+2016-11-09 17:59:48,329 INFO  sensorlogger - SensorLogger.java:15   - retour lecture P,BAR,2014-11-02,1012
+2016-11-09 17:59:48,329 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,1
+2016-11-09 17:59:48,330 INFO  sensorlogger - SensorLogger.java:15   - retour lecture P,BAR,2014-11-01,1001
+2016-11-09 17:59:48,330 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,-50
+2016-11-09 17:59:48,330 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H,95
+2016-11-09 17:59:48,331 INFO  sensorlogger - SensorLogger.java:15   - retour lecture P,BAR,2014-11-03,999
+2016-11-09 17:59:48,331 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H,85
+2016-11-09 17:59:48,331 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,-1
+2016-11-09 17:59:48,331 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H,88
+2016-11-09 18:00:55,019 INFO  sensorlogger - SensorLogger.java:15   - Démarrage de l'analyzer
+2016-11-09 18:00:55,026 INFO  sensorlogger - SensorLogger.java:15   - retour lecture #fichier qui roxxe
+2016-11-09 18:00:55,027 INFO  sensorlogger - SensorLogger.java:15   - retour lecture Mont Aigoul,6
+2016-11-09 18:00:55,031 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,20.5
+2016-11-09 18:00:55,032 INFO  sensorlogger - SensorLogger.java:15   - retour lecture P,BAR,2014-11-01,1014
+2016-11-09 18:00:55,033 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H,25,
+2016-11-09 18:00:55,033 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H
+2016-11-09 18:00:55,034 INFO  sensorlogger - SensorLogger.java:15   - ERROR ligne : H
+2016-11-09 18:00:55,034 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T
+2016-11-09 18:00:55,034 INFO  sensorlogger - SensorLogger.java:15   - ERROR ligne : T
+2016-11-09 18:00:55,034 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,21
+2016-11-09 18:00:55,034 INFO  sensorlogger - SensorLogger.java:15   - retour lecture P,BAR,2014-11-02,1014
+2016-11-09 18:00:55,034 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H,25
+2016-11-09 18:00:55,035 INFO  sensorlogger - SensorLogger.java:15   - retour lecture Clapiers,9
+2016-11-09 18:00:55,035 INFO  sensorlogger - SensorLogger.java:15   - retour lecture P,BAR,2014-11-02,1012
+2016-11-09 18:00:55,035 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,24.3
+2016-11-09 18:00:55,037 INFO  sensorlogger - SensorLogger.java:15   - retour lecture P,BAR,2014-11-01,1001
+2016-11-09 18:00:55,037 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,22.2
+2016-11-09 18:00:55,037 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H,1
+2016-11-09 18:00:55,038 INFO  sensorlogger - SensorLogger.java:15   - retour lecture P,BAR,2014-11-03,999
+2016-11-09 18:00:55,038 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H,5
+2016-11-09 18:00:55,038 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,26.2
+2016-11-09 18:00:55,038 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H,8
+2016-11-09 18:00:55,038 INFO  sensorlogger - SensorLogger.java:15   - retour lecture Montpellier,3
+2016-11-09 18:00:55,038 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,100
+2016-11-09 18:00:55,038 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,22.6
+2016-11-09 18:00:55,039 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,19.9
+2016-11-09 18:00:55,039 INFO  sensorlogger - SensorLogger.java:15   - retour lecture Paris,9
+2016-11-09 18:00:55,039 INFO  sensorlogger - SensorLogger.java:15   - retour lecture P,BAR,2014-11-02,1012
+2016-11-09 18:00:55,039 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,1
+2016-11-09 18:00:55,039 INFO  sensorlogger - SensorLogger.java:15   - retour lecture P,BAR,2014-11-01,1001
+2016-11-09 18:00:55,039 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,-50
+2016-11-09 18:00:55,039 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H,95
+2016-11-09 18:00:55,039 INFO  sensorlogger - SensorLogger.java:15   - retour lecture P,BAR,2014-11-03,999
+2016-11-09 18:00:55,040 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H,85
+2016-11-09 18:00:55,040 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,-1
+2016-11-09 18:00:55,040 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H,88
+2016-11-09 18:02:00,436 INFO  sensorlogger - SensorLogger.java:15   - Démarrage de l'analyzer
+2016-11-09 18:02:00,443 INFO  sensorlogger - SensorLogger.java:15   - retour lecture #fichier qui roxxe
+2016-11-09 18:02:00,444 INFO  sensorlogger - SensorLogger.java:15   - retour lecture Mont Aigoul,6
+2016-11-09 18:02:00,450 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,20.5
+2016-11-09 18:02:00,453 INFO  sensorlogger - SensorLogger.java:15   - retour lecture P,BAR,2014-11-01,1014
+2016-11-09 18:02:00,454 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H,25,
+2016-11-09 18:02:00,455 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H
+2016-11-09 18:02:00,455 INFO  sensorlogger - SensorLogger.java:15   - ERROR ligne : H
+2016-11-09 18:02:00,455 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T
+2016-11-09 18:02:00,455 INFO  sensorlogger - SensorLogger.java:15   - ERROR ligne : T
+2016-11-09 18:02:00,455 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,21
+2016-11-09 18:02:00,455 INFO  sensorlogger - SensorLogger.java:15   - retour lecture P,BAR,2014-11-02,1014
+2016-11-09 18:02:00,456 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H,25
+2016-11-09 18:02:00,456 INFO  sensorlogger - SensorLogger.java:15   - retour lecture Clapiers,9
+2016-11-09 18:02:00,456 INFO  sensorlogger - SensorLogger.java:15   - retour lecture P,BAR,2014-11-02,1012
+2016-11-09 18:02:00,456 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,24.3
+2016-11-09 18:02:00,459 INFO  sensorlogger - SensorLogger.java:15   - retour lecture P,BAR,2014-11-01,1001
+2016-11-09 18:02:00,459 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,22.2
+2016-11-09 18:02:00,460 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H,1
+2016-11-09 18:02:00,460 INFO  sensorlogger - SensorLogger.java:15   - retour lecture P,BAR,2014-11-03,999
+2016-11-09 18:02:00,460 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H,5
+2016-11-09 18:02:00,460 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,26.2
+2016-11-09 18:02:00,461 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H,8
+2016-11-09 18:02:00,461 INFO  sensorlogger - SensorLogger.java:15   - retour lecture Montpellier,3
+2016-11-09 18:02:00,461 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,100
+2016-11-09 18:02:00,461 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,22.6
+2016-11-09 18:02:00,462 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,19.9
+2016-11-09 18:02:00,462 INFO  sensorlogger - SensorLogger.java:15   - retour lecture Paris,9
+2016-11-09 18:02:00,462 INFO  sensorlogger - SensorLogger.java:15   - retour lecture P,BAR,2014-11-02,1012
+2016-11-09 18:02:00,462 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,1
+2016-11-09 18:02:00,462 INFO  sensorlogger - SensorLogger.java:15   - retour lecture P,BAR,2014-11-01,1001
+2016-11-09 18:02:00,463 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,-50
+2016-11-09 18:02:00,463 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H,95
+2016-11-09 18:02:00,463 INFO  sensorlogger - SensorLogger.java:15   - retour lecture P,BAR,2014-11-03,999
+2016-11-09 18:02:00,464 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H,85
+2016-11-09 18:02:00,464 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,-1
+2016-11-09 18:02:00,464 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H,88
+2016-11-09 18:04:00,479 INFO  sensorlogger - SensorLogger.java:15   - DÃ©marrage de l'analyzer
+2016-11-09 18:04:00,500 INFO  sensorlogger - SensorLogger.java:15   - retour lecture #fichier qui roxxe
+2016-11-09 18:04:00,513 INFO  sensorlogger - SensorLogger.java:15   - retour lecture Mont Aigoul,6
+2016-11-09 18:04:00,523 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,20.5
+2016-11-09 18:04:00,552 INFO  sensorlogger - SensorLogger.java:15   - retour lecture P,BAR,2014-11-01,1014
+2016-11-09 18:04:00,564 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H,25,
+2016-11-09 18:04:00,575 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H
+2016-11-09 18:04:00,581 INFO  sensorlogger - SensorLogger.java:15   - ERROR ligne : H
+2016-11-09 18:04:00,582 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T
+2016-11-09 18:04:00,582 INFO  sensorlogger - SensorLogger.java:15   - ERROR ligne : T
+2016-11-09 18:04:00,582 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,21
+2016-11-09 18:04:00,582 INFO  sensorlogger - SensorLogger.java:15   - retour lecture P,BAR,2014-11-02,1014
+2016-11-09 18:04:00,583 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H,25
+2016-11-09 18:04:00,584 INFO  sensorlogger - SensorLogger.java:15   - retour lecture Clapiers,9
+2016-11-09 18:04:00,584 INFO  sensorlogger - SensorLogger.java:15   - retour lecture P,BAR,2014-11-02,1012
+2016-11-09 18:04:00,584 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,24.3
+2016-11-09 18:04:00,595 INFO  sensorlogger - SensorLogger.java:15   - retour lecture P,BAR,2014-11-01,1001
+2016-11-09 18:04:00,595 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,22.2
+2016-11-09 18:04:00,596 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H,1
+2016-11-09 18:04:00,596 INFO  sensorlogger - SensorLogger.java:15   - retour lecture P,BAR,2014-11-03,999
+2016-11-09 18:04:00,596 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H,5
+2016-11-09 18:04:00,597 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,26.2
+2016-11-09 18:04:00,598 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H,8
+2016-11-09 18:04:00,598 INFO  sensorlogger - SensorLogger.java:15   - retour lecture Montpellier,3
+2016-11-09 18:04:00,598 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,100
+2016-11-09 18:04:00,599 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,22.6
+2016-11-09 18:04:00,599 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,19.9
+2016-11-09 18:04:00,599 INFO  sensorlogger - SensorLogger.java:15   - retour lecture Paris,9
+2016-11-09 18:04:00,600 INFO  sensorlogger - SensorLogger.java:15   - retour lecture P,BAR,2014-11-02,1012
+2016-11-09 18:04:00,600 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,1
+2016-11-09 18:04:00,600 INFO  sensorlogger - SensorLogger.java:15   - retour lecture P,BAR,2014-11-01,1001
+2016-11-09 18:04:00,600 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,-50
+2016-11-09 18:04:00,600 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H,95
+2016-11-09 18:04:00,601 INFO  sensorlogger - SensorLogger.java:15   - retour lecture P,BAR,2014-11-03,999
+2016-11-09 18:04:00,601 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H,85
+2016-11-09 18:04:00,601 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,-1
+2016-11-09 18:04:00,601 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H,88
+2016-11-09 18:04:36,600 INFO  sensorlogger - SensorLogger.java:15   - Démarrage de l'analyzer
+2016-11-09 18:04:36,606 INFO  sensorlogger - SensorLogger.java:15   - retour lecture #fichier qui roxxe
+2016-11-09 18:04:36,607 INFO  sensorlogger - SensorLogger.java:15   - retour lecture Mont Aigoul,6
+2016-11-09 18:04:36,611 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,20.5
+2016-11-09 18:04:36,613 INFO  sensorlogger - SensorLogger.java:15   - retour lecture P,BAR,2014-11-01,1014
+2016-11-09 18:04:36,614 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H,25,
+2016-11-09 18:04:36,614 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H
+2016-11-09 18:04:36,614 INFO  sensorlogger - SensorLogger.java:15   - ERROR ligne : H
+2016-11-09 18:04:36,615 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T
+2016-11-09 18:04:36,615 INFO  sensorlogger - SensorLogger.java:15   - ERROR ligne : T
+2016-11-09 18:04:36,615 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,21
+2016-11-09 18:04:36,615 INFO  sensorlogger - SensorLogger.java:15   - retour lecture P,BAR,2014-11-02,1014
+2016-11-09 18:04:36,615 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H,25
+2016-11-09 18:04:36,616 INFO  sensorlogger - SensorLogger.java:15   - retour lecture Clapiers,9
+2016-11-09 18:04:36,616 INFO  sensorlogger - SensorLogger.java:15   - retour lecture P,BAR,2014-11-02,1012
+2016-11-09 18:04:36,616 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,24.3
+2016-11-09 18:04:36,618 INFO  sensorlogger - SensorLogger.java:15   - retour lecture P,BAR,2014-11-01,1001
+2016-11-09 18:04:36,618 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,22.2
+2016-11-09 18:04:36,618 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H,1
+2016-11-09 18:04:36,619 INFO  sensorlogger - SensorLogger.java:15   - retour lecture P,BAR,2014-11-03,999
+2016-11-09 18:04:36,619 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H,5
+2016-11-09 18:04:36,619 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,26.2
+2016-11-09 18:04:36,619 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H,8
+2016-11-09 18:04:36,620 INFO  sensorlogger - SensorLogger.java:15   - retour lecture Montpellier,3
+2016-11-09 18:04:36,620 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,100
+2016-11-09 18:04:36,620 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,22.6
+2016-11-09 18:04:36,620 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,19.9
+2016-11-09 18:04:36,620 INFO  sensorlogger - SensorLogger.java:15   - retour lecture Paris,9
+2016-11-09 18:04:36,621 INFO  sensorlogger - SensorLogger.java:15   - retour lecture P,BAR,2014-11-02,1012
+2016-11-09 18:04:36,621 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,1
+2016-11-09 18:04:36,621 INFO  sensorlogger - SensorLogger.java:15   - retour lecture P,BAR,2014-11-01,1001
+2016-11-09 18:04:36,621 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,-50
+2016-11-09 18:04:36,622 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H,95
+2016-11-09 18:04:36,622 INFO  sensorlogger - SensorLogger.java:15   - retour lecture P,BAR,2014-11-03,999
+2016-11-09 18:04:36,622 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H,85
+2016-11-09 18:04:36,622 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,-1
+2016-11-09 18:04:36,622 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H,88
+2016-11-09 18:05:42,829 INFO  sensorlogger - SensorLogger.java:15   - Démarrage de l'analyzer
+2016-11-09 18:05:42,834 INFO  sensorlogger - SensorLogger.java:15   - retour lecture #fichier qui roxxe
+2016-11-09 18:05:42,834 INFO  sensorlogger - SensorLogger.java:15   - retour lecture Mont Aigoul,6
+2016-11-09 18:05:42,838 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,20.5
+2016-11-09 18:05:42,841 INFO  sensorlogger - SensorLogger.java:15   - retour lecture P,BAR,2014-11-01,1014
+2016-11-09 18:05:42,842 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H,25,
+2016-11-09 18:05:42,842 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H
+2016-11-09 18:05:42,842 INFO  sensorlogger - SensorLogger.java:15   - ERROR ligne : H
+2016-11-09 18:05:42,843 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T
+2016-11-09 18:05:42,843 INFO  sensorlogger - SensorLogger.java:15   - ERROR ligne : T
+2016-11-09 18:05:42,843 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,21
+2016-11-09 18:05:42,843 INFO  sensorlogger - SensorLogger.java:15   - retour lecture P,BAR,2014-11-02,1014
+2016-11-09 18:05:42,843 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H,25
+2016-11-09 18:05:42,843 INFO  sensorlogger - SensorLogger.java:15   - retour lecture Clapiers,9
+2016-11-09 18:05:42,843 INFO  sensorlogger - SensorLogger.java:15   - retour lecture P,BAR,2014-11-02,1012
+2016-11-09 18:05:42,844 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,24.3
+2016-11-09 18:05:42,847 INFO  sensorlogger - SensorLogger.java:15   - retour lecture P,BAR,2014-11-01,1001
+2016-11-09 18:05:42,847 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,22.2
+2016-11-09 18:05:42,848 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H,1
+2016-11-09 18:05:42,848 INFO  sensorlogger - SensorLogger.java:15   - retour lecture P,BAR,2014-11-03,999
+2016-11-09 18:05:42,848 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H,5
+2016-11-09 18:05:42,848 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,26.2
+2016-11-09 18:05:42,849 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H,8
+2016-11-09 18:05:42,849 INFO  sensorlogger - SensorLogger.java:15   - retour lecture Montpellier,3
+2016-11-09 18:05:42,849 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,100
+2016-11-09 18:05:42,849 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,22.6
+2016-11-09 18:05:42,849 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,19.9
+2016-11-09 18:05:42,850 INFO  sensorlogger - SensorLogger.java:15   - retour lecture Paris,9
+2016-11-09 18:05:42,850 INFO  sensorlogger - SensorLogger.java:15   - retour lecture P,BAR,2014-11-02,1012
+2016-11-09 18:05:42,850 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,1
+2016-11-09 18:05:42,850 INFO  sensorlogger - SensorLogger.java:15   - retour lecture P,BAR,2014-11-01,1001
+2016-11-09 18:05:42,851 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,-50
+2016-11-09 18:05:42,851 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H,95
+2016-11-09 18:05:42,851 INFO  sensorlogger - SensorLogger.java:15   - retour lecture P,BAR,2014-11-03,999
+2016-11-09 18:05:42,851 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H,85
+2016-11-09 18:05:42,851 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,-1
+2016-11-09 18:05:42,851 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H,88
+2016-11-09 18:06:46,772 INFO  sensorlogger - SensorLogger.java:15   - Démarrage de l'analyzer
+2016-11-09 18:06:46,777 INFO  sensorlogger - SensorLogger.java:15   - retour lecture #fichier qui roxxe
+2016-11-09 18:06:46,778 INFO  sensorlogger - SensorLogger.java:15   - retour lecture Mont Aigoul,6
+2016-11-09 18:06:46,782 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,20.5
+2016-11-09 18:06:46,785 INFO  sensorlogger - SensorLogger.java:15   - retour lecture P,BAR,2014-11-01,1014
+2016-11-09 18:06:46,785 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H,25,
+2016-11-09 18:06:46,786 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H
+2016-11-09 18:06:46,786 INFO  sensorlogger - SensorLogger.java:15   - ERROR ligne : H
+2016-11-09 18:06:46,786 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T
+2016-11-09 18:06:46,786 INFO  sensorlogger - SensorLogger.java:15   - ERROR ligne : T
+2016-11-09 18:06:46,787 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,21
+2016-11-09 18:06:46,787 INFO  sensorlogger - SensorLogger.java:15   - retour lecture P,BAR,2014-11-02,1014
+2016-11-09 18:06:46,787 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H,25
+2016-11-09 18:06:46,787 INFO  sensorlogger - SensorLogger.java:15   - retour lecture Clapiers,9
+2016-11-09 18:06:46,787 INFO  sensorlogger - SensorLogger.java:15   - retour lecture P,BAR,2014-11-02,1012
+2016-11-09 18:06:46,787 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,24.3
+2016-11-09 18:06:46,790 INFO  sensorlogger - SensorLogger.java:15   - retour lecture P,BAR,2014-11-01,1001
+2016-11-09 18:06:46,790 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,22.2
+2016-11-09 18:06:46,790 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H,1
+2016-11-09 18:06:46,791 INFO  sensorlogger - SensorLogger.java:15   - retour lecture P,BAR,2014-11-03,999
+2016-11-09 18:06:46,791 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H,5
+2016-11-09 18:06:46,791 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,26.2
+2016-11-09 18:06:46,791 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H,8
+2016-11-09 18:06:46,792 INFO  sensorlogger - SensorLogger.java:15   - retour lecture Montpellier,3
+2016-11-09 18:06:46,792 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,100
+2016-11-09 18:06:46,792 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,22.6
+2016-11-09 18:06:46,792 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,19.9
+2016-11-09 18:06:46,793 INFO  sensorlogger - SensorLogger.java:15   - retour lecture Paris,9
+2016-11-09 18:06:46,793 INFO  sensorlogger - SensorLogger.java:15   - retour lecture P,BAR,2014-11-02,1012
+2016-11-09 18:06:46,793 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,1
+2016-11-09 18:06:46,793 INFO  sensorlogger - SensorLogger.java:15   - retour lecture P,BAR,2014-11-01,1001
+2016-11-09 18:06:46,793 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,-50
+2016-11-09 18:06:46,794 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H,95
+2016-11-09 18:06:46,794 INFO  sensorlogger - SensorLogger.java:15   - retour lecture P,BAR,2014-11-03,999
+2016-11-09 18:06:46,794 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H,85
+2016-11-09 18:06:46,794 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,-1
+2016-11-09 18:06:46,794 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H,88
+2016-11-09 18:08:06,642 INFO  sensorlogger - SensorLogger.java:15   - Démarrage de l'analyzer
+2016-11-09 18:08:06,646 INFO  sensorlogger - SensorLogger.java:15   - retour lecture #fichier qui roxxe
+2016-11-09 18:08:06,647 INFO  sensorlogger - SensorLogger.java:15   - retour lecture Mont Aigoul,6
+2016-11-09 18:08:06,650 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,20.5
+2016-11-09 18:08:06,652 INFO  sensorlogger - SensorLogger.java:15   - retour lecture P,BAR,2014-11-01,1014
+2016-11-09 18:08:06,653 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H,25,
+2016-11-09 18:08:06,653 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H
+2016-11-09 18:08:06,653 INFO  sensorlogger - SensorLogger.java:15   - ERROR ligne : H
+2016-11-09 18:08:06,653 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T
+2016-11-09 18:08:06,653 INFO  sensorlogger - SensorLogger.java:15   - ERROR ligne : T
+2016-11-09 18:08:06,654 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,21
+2016-11-09 18:08:06,654 INFO  sensorlogger - SensorLogger.java:15   - retour lecture P,BAR,2014-11-02,1014
+2016-11-09 18:08:06,654 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H,25
+2016-11-09 18:08:06,654 INFO  sensorlogger - SensorLogger.java:15   - retour lecture Clapiers,9
+2016-11-09 18:08:06,654 INFO  sensorlogger - SensorLogger.java:15   - retour lecture P,BAR,2014-11-02,1012
+2016-11-09 18:08:06,654 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,24.3
+2016-11-09 18:08:06,656 INFO  sensorlogger - SensorLogger.java:15   - retour lecture P,BAR,2014-11-01,1001
+2016-11-09 18:08:06,656 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,22.2
+2016-11-09 18:08:06,657 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H,1
+2016-11-09 18:08:06,657 INFO  sensorlogger - SensorLogger.java:15   - retour lecture P,BAR,2014-11-03,999
+2016-11-09 18:08:06,657 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H,5
+2016-11-09 18:08:06,657 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,26.2
+2016-11-09 18:08:06,657 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H,8
+2016-11-09 18:08:06,657 INFO  sensorlogger - SensorLogger.java:15   - retour lecture Montpellier,3
+2016-11-09 18:08:06,658 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,100
+2016-11-09 18:08:06,658 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,22.6
+2016-11-09 18:08:06,658 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,19.9
+2016-11-09 18:08:06,658 INFO  sensorlogger - SensorLogger.java:15   - retour lecture Paris,9
+2016-11-09 18:08:06,658 INFO  sensorlogger - SensorLogger.java:15   - retour lecture P,BAR,2014-11-02,1012
+2016-11-09 18:08:06,658 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,1
+2016-11-09 18:08:06,659 INFO  sensorlogger - SensorLogger.java:15   - retour lecture P,BAR,2014-11-01,1001
+2016-11-09 18:08:06,659 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,-50
+2016-11-09 18:08:06,659 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H,95
+2016-11-09 18:08:06,659 INFO  sensorlogger - SensorLogger.java:15   - retour lecture P,BAR,2014-11-03,999
+2016-11-09 18:08:06,659 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H,85
+2016-11-09 18:08:06,659 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,-1
+2016-11-09 18:08:06,659 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H,88
+2016-11-09 18:09:25,996 INFO  sensorlogger - SensorLogger.java:15   - Démarrage de l'analyzer
+2016-11-09 18:09:26,000 INFO  sensorlogger - SensorLogger.java:15   - retour lecture #fichier qui roxxe
+2016-11-09 18:09:26,001 INFO  sensorlogger - SensorLogger.java:15   - retour lecture Mont Aigoul,6
+2016-11-09 18:09:26,005 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,20.5
+2016-11-09 18:09:26,008 INFO  sensorlogger - SensorLogger.java:15   - retour lecture P,BAR,2014-11-01,1014
+2016-11-09 18:09:26,009 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H,25,
+2016-11-09 18:09:26,009 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H
+2016-11-09 18:09:26,010 INFO  sensorlogger - SensorLogger.java:15   - ERROR ligne : H
+2016-11-09 18:09:26,010 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T
+2016-11-09 18:09:26,010 INFO  sensorlogger - SensorLogger.java:15   - ERROR ligne : T
+2016-11-09 18:09:26,010 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,21
+2016-11-09 18:09:26,010 INFO  sensorlogger - SensorLogger.java:15   - retour lecture P,BAR,2014-11-02,1014
+2016-11-09 18:09:26,011 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H,25
+2016-11-09 18:09:26,011 INFO  sensorlogger - SensorLogger.java:15   - retour lecture Clapiers,9
+2016-11-09 18:09:26,011 INFO  sensorlogger - SensorLogger.java:15   - retour lecture P,BAR,2014-11-02,1012
+2016-11-09 18:09:26,011 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,24.3
+2016-11-09 18:09:26,013 INFO  sensorlogger - SensorLogger.java:15   - retour lecture P,BAR,2014-11-01,1001
+2016-11-09 18:09:26,014 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,22.2
+2016-11-09 18:09:26,014 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H,1
+2016-11-09 18:09:26,014 INFO  sensorlogger - SensorLogger.java:15   - retour lecture P,BAR,2014-11-03,999
+2016-11-09 18:09:26,014 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H,5
+2016-11-09 18:09:26,014 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,26.2
+2016-11-09 18:09:26,014 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H,8
+2016-11-09 18:09:26,015 INFO  sensorlogger - SensorLogger.java:15   - retour lecture Montpellier,3
+2016-11-09 18:09:26,015 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,100
+2016-11-09 18:09:26,015 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,22.6
+2016-11-09 18:09:26,015 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,19.9
+2016-11-09 18:09:26,015 INFO  sensorlogger - SensorLogger.java:15   - retour lecture Paris,9
+2016-11-09 18:09:26,015 INFO  sensorlogger - SensorLogger.java:15   - retour lecture P,BAR,2014-11-02,1012
+2016-11-09 18:09:26,015 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,1
+2016-11-09 18:09:26,015 INFO  sensorlogger - SensorLogger.java:15   - retour lecture P,BAR,2014-11-01,1001
+2016-11-09 18:09:26,016 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,-50
+2016-11-09 18:09:26,016 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H,95
+2016-11-09 18:09:26,016 INFO  sensorlogger - SensorLogger.java:15   - retour lecture P,BAR,2014-11-03,999
+2016-11-09 18:09:26,016 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H,85
+2016-11-09 18:09:26,016 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,-1
+2016-11-09 18:09:26,016 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H,88
+2016-11-10 09:26:55,814 INFO  sensorlogger - SensorLogger.java:15   - Démarrage de l'analyzer
+2016-11-10 09:26:55,820 INFO  sensorlogger - SensorLogger.java:15   - retour lecture #fichier qui roxxe
+2016-11-10 09:26:55,821 INFO  sensorlogger - SensorLogger.java:15   - retour lecture Mont Aigoul,6
+2016-11-10 09:26:55,824 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,20.5
+2016-11-10 09:26:55,825 INFO  sensorlogger - SensorLogger.java:15   - retour lecture P,BAR,2014-11-01,1014
+2016-11-10 09:26:55,826 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H,25,
+2016-11-10 09:26:55,826 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H
+2016-11-10 09:26:55,826 INFO  sensorlogger - SensorLogger.java:15   - ERROR ligne : H
+2016-11-10 09:26:55,826 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T
+2016-11-10 09:26:55,826 INFO  sensorlogger - SensorLogger.java:15   - ERROR ligne : T
+2016-11-10 09:26:55,827 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,21
+2016-11-10 09:26:55,827 INFO  sensorlogger - SensorLogger.java:15   - retour lecture P,BAR,2014-11-02,1014
+2016-11-10 09:26:55,827 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H,25
+2016-11-10 09:26:55,827 INFO  sensorlogger - SensorLogger.java:15   - retour lecture Clapiers,9
+2016-11-10 09:26:55,827 INFO  sensorlogger - SensorLogger.java:15   - retour lecture P,BAR,2014-11-02,1012
+2016-11-10 09:26:55,827 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,24.3
+2016-11-10 09:26:55,829 INFO  sensorlogger - SensorLogger.java:15   - retour lecture P,BAR,2014-11-01,1001
+2016-11-10 09:26:55,829 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,22.2
+2016-11-10 09:26:55,829 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H,1
+2016-11-10 09:26:55,829 INFO  sensorlogger - SensorLogger.java:15   - retour lecture P,BAR,2014-11-03,999
+2016-11-10 09:26:55,829 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H,5
+2016-11-10 09:26:55,830 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,26.2
+2016-11-10 09:26:55,830 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H,8
+2016-11-10 09:26:55,830 INFO  sensorlogger - SensorLogger.java:15   - retour lecture Montpellier,3
+2016-11-10 09:26:55,830 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,100
+2016-11-10 09:26:55,830 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,22.6
+2016-11-10 09:26:55,830 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,19.9
+2016-11-10 09:26:55,830 INFO  sensorlogger - SensorLogger.java:15   - retour lecture Paris,9
+2016-11-10 09:26:55,830 INFO  sensorlogger - SensorLogger.java:15   - retour lecture P,BAR,2014-11-02,1012
+2016-11-10 09:26:55,831 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,1
+2016-11-10 09:26:55,831 INFO  sensorlogger - SensorLogger.java:15   - retour lecture P,BAR,2014-11-01,1001
+2016-11-10 09:26:55,831 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,-50
+2016-11-10 09:26:55,831 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H,95
+2016-11-10 09:26:55,831 INFO  sensorlogger - SensorLogger.java:15   - retour lecture P,BAR,2014-11-03,999
+2016-11-10 09:26:55,831 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H,85
+2016-11-10 09:26:55,831 INFO  sensorlogger - SensorLogger.java:15   - retour lecture T,C,-1
+2016-11-10 09:26:55,831 INFO  sensorlogger - SensorLogger.java:15   - retour lecture H,88
+2016-11-10 14:24:02,879 INFO  sensorlogger - SensorLogger.java:19   - Démarrage de l'analyzer
+2016-11-10 14:24:02,907 INFO  sensorlogger - SensorLogger.java:19   - retour lecture #fichier qui roxxe
+2016-11-10 14:24:02,908 INFO  sensorlogger - SensorLogger.java:19   - retour lecture Mont Aigoul,6
+2016-11-10 14:24:02,916 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,20.5
+2016-11-10 14:24:02,922 INFO  sensorlogger - SensorLogger.java:19   - retour lecture P,BAR,2014-11-01,1014
+2016-11-10 14:24:02,923 INFO  sensorlogger - SensorLogger.java:19   - retour lecture H,25,
+2016-11-10 14:24:02,923 INFO  sensorlogger - SensorLogger.java:19   - retour lecture H
+2016-11-10 14:24:02,923 INFO  sensorlogger - SensorLogger.java:19   - ERROR ligne : H
+2016-11-10 14:24:02,923 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T
+2016-11-10 14:24:02,923 INFO  sensorlogger - SensorLogger.java:19   - ERROR ligne : T
+2016-11-10 14:24:02,923 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,21
+2016-11-10 14:24:02,924 INFO  sensorlogger - SensorLogger.java:19   - retour lecture P,BAR,2014-11-02,1014
+2016-11-10 14:24:02,924 INFO  sensorlogger - SensorLogger.java:19   - retour lecture H,25
+2016-11-10 14:24:02,924 INFO  sensorlogger - SensorLogger.java:19   - retour lecture Clapiers,9
+2016-11-10 14:24:02,924 INFO  sensorlogger - SensorLogger.java:19   - retour lecture P,BAR,2014-11-02,1012
+2016-11-10 14:24:02,924 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,24.3
+2016-11-10 14:24:02,926 INFO  sensorlogger - SensorLogger.java:19   - retour lecture P,BAR,2014-11-01,1001
+2016-11-10 14:24:02,926 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,22.2
+2016-11-10 14:24:02,926 INFO  sensorlogger - SensorLogger.java:19   - retour lecture H,1
+2016-11-10 14:24:02,926 INFO  sensorlogger - SensorLogger.java:19   - retour lecture P,BAR,2014-11-03,999
+2016-11-10 14:24:02,926 INFO  sensorlogger - SensorLogger.java:19   - retour lecture H,5
+2016-11-10 14:24:02,926 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,26.2
+2016-11-10 14:24:02,926 INFO  sensorlogger - SensorLogger.java:19   - retour lecture H,8
+2016-11-10 14:24:02,927 INFO  sensorlogger - SensorLogger.java:19   - retour lecture Montpellier,3
+2016-11-10 14:24:02,927 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,100
+2016-11-10 14:24:02,927 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,22.6
+2016-11-10 14:24:02,927 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,19.9
+2016-11-10 14:24:02,927 INFO  sensorlogger - SensorLogger.java:19   - retour lecture Paris,9
+2016-11-10 14:24:02,927 INFO  sensorlogger - SensorLogger.java:19   - retour lecture P,BAR,2014-11-02,1012
+2016-11-10 14:24:02,928 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,1
+2016-11-10 14:24:02,928 INFO  sensorlogger - SensorLogger.java:19   - retour lecture P,BAR,2014-11-01,1001
+2016-11-10 14:24:02,928 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,-50
+2016-11-10 14:24:02,928 INFO  sensorlogger - SensorLogger.java:19   - retour lecture H,95
+2016-11-10 14:24:02,928 INFO  sensorlogger - SensorLogger.java:19   - retour lecture P,BAR,2014-11-03,999
+2016-11-10 14:24:02,928 INFO  sensorlogger - SensorLogger.java:19   - retour lecture H,85
+2016-11-10 14:24:02,928 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,-1
+2016-11-10 14:24:02,928 INFO  sensorlogger - SensorLogger.java:19   - retour lecture H,88
+2016-11-10 14:37:03,620 INFO  sensorlogger - SensorLogger.java:19   - Démarrage de l'analyzer
+2016-11-10 14:37:03,624 INFO  sensorlogger - SensorLogger.java:19   - retour lecture #fichier qui roxxe
+2016-11-10 14:37:03,624 INFO  sensorlogger - SensorLogger.java:19   - retour lecture Mont Aigoul,6
+2016-11-10 14:37:03,627 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,20.5
+2016-11-10 14:37:03,629 INFO  sensorlogger - SensorLogger.java:19   - retour lecture P,BAR,2014-11-01,1014
+2016-11-10 14:37:03,629 INFO  sensorlogger - SensorLogger.java:19   - retour lecture H,25,
+2016-11-10 14:37:03,630 INFO  sensorlogger - SensorLogger.java:19   - retour lecture H
+2016-11-10 14:37:03,630 INFO  sensorlogger - SensorLogger.java:19   - ERROR ligne : H
+2016-11-10 14:37:03,630 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T
+2016-11-10 14:37:03,630 INFO  sensorlogger - SensorLogger.java:19   - ERROR ligne : T
+2016-11-10 14:37:03,630 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,21
+2016-11-10 14:37:03,631 INFO  sensorlogger - SensorLogger.java:19   - retour lecture P,BAR,2014-11-02,1014
+2016-11-10 14:37:03,631 INFO  sensorlogger - SensorLogger.java:19   - retour lecture H,25
+2016-11-10 14:37:03,631 INFO  sensorlogger - SensorLogger.java:19   - retour lecture Clapiers,9
+2016-11-10 14:37:03,631 INFO  sensorlogger - SensorLogger.java:19   - retour lecture P,BAR,2014-11-02,1012
+2016-11-10 14:37:03,631 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,24.3
+2016-11-10 14:37:03,633 INFO  sensorlogger - SensorLogger.java:19   - retour lecture P,BAR,2014-11-01,1001
+2016-11-10 14:37:03,633 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,22.2
+2016-11-10 14:37:03,633 INFO  sensorlogger - SensorLogger.java:19   - retour lecture H,1
+2016-11-10 14:37:03,633 INFO  sensorlogger - SensorLogger.java:19   - retour lecture P,BAR,2014-11-03,999
+2016-11-10 14:37:03,633 INFO  sensorlogger - SensorLogger.java:19   - retour lecture H,5
+2016-11-10 14:37:03,633 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,26.2
+2016-11-10 14:37:03,633 INFO  sensorlogger - SensorLogger.java:19   - retour lecture H,8
+2016-11-10 14:37:03,633 INFO  sensorlogger - SensorLogger.java:19   - retour lecture Montpellier,3
+2016-11-10 14:37:03,634 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,100
+2016-11-10 14:37:03,634 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,22.6
+2016-11-10 14:37:03,634 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,19.9
+2016-11-10 14:37:03,634 INFO  sensorlogger - SensorLogger.java:19   - retour lecture Paris,9
+2016-11-10 14:37:03,634 INFO  sensorlogger - SensorLogger.java:19   - retour lecture P,BAR,2014-11-02,1012
+2016-11-10 14:37:03,634 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,1
+2016-11-10 14:37:03,634 INFO  sensorlogger - SensorLogger.java:19   - retour lecture P,BAR,2014-11-01,1001
+2016-11-10 14:37:03,634 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,-50
+2016-11-10 14:37:03,634 INFO  sensorlogger - SensorLogger.java:19   - retour lecture H,95
+2016-11-10 14:37:03,635 INFO  sensorlogger - SensorLogger.java:19   - retour lecture P,BAR,2014-11-03,999
+2016-11-10 14:37:03,635 INFO  sensorlogger - SensorLogger.java:19   - retour lecture H,85
+2016-11-10 14:37:03,635 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,-1
+2016-11-10 14:37:03,635 INFO  sensorlogger - SensorLogger.java:19   - retour lecture H,88
+2016-11-10 14:43:54,820 INFO  sensorlogger - SensorLogger.java:19   - Démarrage de l'analyzer
+2016-11-10 14:43:54,825 INFO  sensorlogger - SensorLogger.java:19   - retour lecture #fichier qui roxxe
+2016-11-10 14:43:54,826 INFO  sensorlogger - SensorLogger.java:19   - retour lecture Mont Aigoul,6
+2016-11-10 14:43:54,829 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,20.5
+2016-11-10 14:43:54,831 INFO  sensorlogger - SensorLogger.java:19   - retour lecture P,BAR,2014-11-01,1014
+2016-11-10 14:43:54,832 INFO  sensorlogger - SensorLogger.java:19   - retour lecture H,25,
+2016-11-10 14:43:54,832 INFO  sensorlogger - SensorLogger.java:19   - retour lecture H
+2016-11-10 14:43:54,832 INFO  sensorlogger - SensorLogger.java:19   - ERROR ligne : H
+2016-11-10 14:43:54,832 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T
+2016-11-10 14:43:54,832 INFO  sensorlogger - SensorLogger.java:19   - ERROR ligne : T
+2016-11-10 14:43:54,833 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,21
+2016-11-10 14:43:54,833 INFO  sensorlogger - SensorLogger.java:19   - retour lecture P,BAR,2014-11-02,1014
+2016-11-10 14:43:54,833 INFO  sensorlogger - SensorLogger.java:19   - retour lecture H,25
+2016-11-10 14:43:54,833 INFO  sensorlogger - SensorLogger.java:19   - retour lecture Clapiers,9
+2016-11-10 14:43:54,833 INFO  sensorlogger - SensorLogger.java:19   - retour lecture P,BAR,2014-11-02,1012
+2016-11-10 14:43:54,833 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,24.3
+2016-11-10 14:43:54,835 INFO  sensorlogger - SensorLogger.java:19   - retour lecture P,BAR,2014-11-01,1001
+2016-11-10 14:43:54,836 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,22.2
+2016-11-10 14:43:54,836 INFO  sensorlogger - SensorLogger.java:19   - retour lecture H,1
+2016-11-10 14:43:54,836 INFO  sensorlogger - SensorLogger.java:19   - retour lecture P,BAR,2014-11-03,999
+2016-11-10 14:43:54,836 INFO  sensorlogger - SensorLogger.java:19   - retour lecture H,5
+2016-11-10 14:43:54,836 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,26.2
+2016-11-10 14:43:54,836 INFO  sensorlogger - SensorLogger.java:19   - retour lecture H,8
+2016-11-10 14:43:54,837 INFO  sensorlogger - SensorLogger.java:19   - retour lecture Montpellier,3
+2016-11-10 14:43:54,837 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,100
+2016-11-10 14:43:54,837 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,22.6
+2016-11-10 14:43:54,837 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,19.9
+2016-11-10 14:43:54,838 INFO  sensorlogger - SensorLogger.java:19   - retour lecture Paris,9
+2016-11-10 14:43:54,838 INFO  sensorlogger - SensorLogger.java:19   - retour lecture P,BAR,2014-11-02,1012
+2016-11-10 14:43:54,838 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,1
+2016-11-10 14:43:54,838 INFO  sensorlogger - SensorLogger.java:19   - retour lecture P,BAR,2014-11-01,1001
+2016-11-10 14:43:54,838 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,-50
+2016-11-10 14:43:54,839 INFO  sensorlogger - SensorLogger.java:19   - retour lecture H,95
+2016-11-10 14:43:54,839 INFO  sensorlogger - SensorLogger.java:19   - retour lecture P,BAR,2014-11-03,999
+2016-11-10 14:43:54,839 INFO  sensorlogger - SensorLogger.java:19   - retour lecture H,85
+2016-11-10 14:43:54,839 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,-1
+2016-11-10 14:43:54,839 INFO  sensorlogger - SensorLogger.java:19   - retour lecture H,88
+2016-11-10 14:43:56,591 INFO  sensorlogger - SensorLogger.java:19   - DÃ©marrage de l'analyzer
+2016-11-10 14:43:56,606 INFO  sensorlogger - SensorLogger.java:19   - retour lecture #fichier qui roxxe
+2016-11-10 14:43:56,610 INFO  sensorlogger - SensorLogger.java:19   - retour lecture Mont Aigoul,6
+2016-11-10 14:43:56,613 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,20.5
+2016-11-10 14:43:56,621 INFO  sensorlogger - SensorLogger.java:19   - retour lecture P,BAR,2014-11-01,1014
+2016-11-10 14:43:56,627 INFO  sensorlogger - SensorLogger.java:19   - retour lecture H,25,
+2016-11-10 14:43:56,632 INFO  sensorlogger - SensorLogger.java:19   - retour lecture H
+2016-11-10 14:43:56,633 INFO  sensorlogger - SensorLogger.java:19   - ERROR ligne : H
+2016-11-10 14:43:56,633 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T
+2016-11-10 14:43:56,634 INFO  sensorlogger - SensorLogger.java:19   - ERROR ligne : T
+2016-11-10 14:43:56,634 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,21
+2016-11-10 14:43:56,634 INFO  sensorlogger - SensorLogger.java:19   - retour lecture P,BAR,2014-11-02,1014
+2016-11-10 14:43:56,634 INFO  sensorlogger - SensorLogger.java:19   - retour lecture H,25
+2016-11-10 14:43:56,634 INFO  sensorlogger - SensorLogger.java:19   - retour lecture Clapiers,9
+2016-11-10 14:43:56,634 INFO  sensorlogger - SensorLogger.java:19   - retour lecture P,BAR,2014-11-02,1012
+2016-11-10 14:43:56,635 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,24.3
+2016-11-10 14:43:56,638 INFO  sensorlogger - SensorLogger.java:19   - retour lecture P,BAR,2014-11-01,1001
+2016-11-10 14:43:56,638 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,22.2
+2016-11-10 14:43:56,638 INFO  sensorlogger - SensorLogger.java:19   - retour lecture H,1
+2016-11-10 14:43:56,638 INFO  sensorlogger - SensorLogger.java:19   - retour lecture P,BAR,2014-11-03,999
+2016-11-10 14:43:56,638 INFO  sensorlogger - SensorLogger.java:19   - retour lecture H,5
+2016-11-10 14:43:56,639 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,26.2
+2016-11-10 14:43:56,639 INFO  sensorlogger - SensorLogger.java:19   - retour lecture H,8
+2016-11-10 14:43:56,639 INFO  sensorlogger - SensorLogger.java:19   - retour lecture Montpellier,3
+2016-11-10 14:43:56,639 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,100
+2016-11-10 14:43:56,639 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,22.6
+2016-11-10 14:43:56,640 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,19.9
+2016-11-10 14:43:56,640 INFO  sensorlogger - SensorLogger.java:19   - retour lecture Paris,9
+2016-11-10 14:43:56,640 INFO  sensorlogger - SensorLogger.java:19   - retour lecture P,BAR,2014-11-02,1012
+2016-11-10 14:43:56,640 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,1
+2016-11-10 14:43:56,640 INFO  sensorlogger - SensorLogger.java:19   - retour lecture P,BAR,2014-11-01,1001
+2016-11-10 14:43:56,640 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,-50
+2016-11-10 14:43:56,641 INFO  sensorlogger - SensorLogger.java:19   - retour lecture H,95
+2016-11-10 14:43:56,641 INFO  sensorlogger - SensorLogger.java:19   - retour lecture P,BAR,2014-11-03,999
+2016-11-10 14:43:56,641 INFO  sensorlogger - SensorLogger.java:19   - retour lecture H,85
+2016-11-10 14:43:56,641 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,-1
+2016-11-10 14:43:56,641 INFO  sensorlogger - SensorLogger.java:19   - retour lecture H,88
+2016-11-10 14:52:25,227 INFO  sensorlogger - SensorLogger.java:19   - Démarrage de l'analyzer
+2016-11-10 14:52:25,233 INFO  sensorlogger - SensorLogger.java:19   - retour lecture #fichier qui roxxe
+2016-11-10 14:52:25,233 INFO  sensorlogger - SensorLogger.java:19   - retour lecture Mont Aigoul,6
+2016-11-10 14:52:25,236 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,20.5
+2016-11-10 14:52:25,238 INFO  sensorlogger - SensorLogger.java:19   - retour lecture P,BAR,2014-11-01,1014
+2016-11-10 14:52:25,239 INFO  sensorlogger - SensorLogger.java:19   - retour lecture H,25,
+2016-11-10 14:52:25,239 INFO  sensorlogger - SensorLogger.java:19   - retour lecture H
+2016-11-10 14:52:25,239 INFO  sensorlogger - SensorLogger.java:19   - ERROR ligne : H
+2016-11-10 14:52:25,239 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T
+2016-11-10 14:52:25,239 INFO  sensorlogger - SensorLogger.java:19   - ERROR ligne : T
+2016-11-10 14:52:25,239 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,21
+2016-11-10 14:52:25,240 INFO  sensorlogger - SensorLogger.java:19   - retour lecture P,BAR,2014-11-02,1014
+2016-11-10 14:52:25,240 INFO  sensorlogger - SensorLogger.java:19   - retour lecture H,25
+2016-11-10 14:52:25,240 INFO  sensorlogger - SensorLogger.java:19   - retour lecture Clapiers,9
+2016-11-10 14:52:25,240 INFO  sensorlogger - SensorLogger.java:19   - retour lecture P,BAR,2014-11-02,1012
+2016-11-10 14:52:25,240 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,24.3
+2016-11-10 14:52:25,242 INFO  sensorlogger - SensorLogger.java:19   - retour lecture P,BAR,2014-11-01,1001
+2016-11-10 14:52:25,242 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,22.2
+2016-11-10 14:52:25,242 INFO  sensorlogger - SensorLogger.java:19   - retour lecture H,1
+2016-11-10 14:52:25,242 INFO  sensorlogger - SensorLogger.java:19   - retour lecture P,BAR,2014-11-03,999
+2016-11-10 14:52:25,242 INFO  sensorlogger - SensorLogger.java:19   - retour lecture H,5
+2016-11-10 14:52:25,242 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,26.2
+2016-11-10 14:52:25,243 INFO  sensorlogger - SensorLogger.java:19   - retour lecture H,8
+2016-11-10 14:52:25,243 INFO  sensorlogger - SensorLogger.java:19   - retour lecture Montpellier,3
+2016-11-10 14:52:25,243 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,100
+2016-11-10 14:52:25,243 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,22.6
+2016-11-10 14:52:25,243 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,19.9
+2016-11-10 14:52:25,243 INFO  sensorlogger - SensorLogger.java:19   - retour lecture Paris,9
+2016-11-10 14:52:25,243 INFO  sensorlogger - SensorLogger.java:19   - retour lecture P,BAR,2014-11-02,1012
+2016-11-10 14:52:25,243 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,1
+2016-11-10 14:52:25,244 INFO  sensorlogger - SensorLogger.java:19   - retour lecture P,BAR,2014-11-01,1001
+2016-11-10 14:52:25,244 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,-50
+2016-11-10 14:52:25,244 INFO  sensorlogger - SensorLogger.java:19   - retour lecture H,95
+2016-11-10 14:52:25,244 INFO  sensorlogger - SensorLogger.java:19   - retour lecture P,BAR,2014-11-03,999
+2016-11-10 14:52:25,244 INFO  sensorlogger - SensorLogger.java:19   - retour lecture H,85
+2016-11-10 14:52:25,244 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,-1
+2016-11-10 14:52:25,244 INFO  sensorlogger - SensorLogger.java:19   - retour lecture H,88
+2016-11-10 14:53:57,079 INFO  sensorlogger - SensorLogger.java:19   - Démarrage de l'analyzer
+2016-11-10 14:53:57,084 INFO  sensorlogger - SensorLogger.java:19   - retour lecture #fichier qui roxxe
+2016-11-10 14:53:57,085 INFO  sensorlogger - SensorLogger.java:19   - retour lecture Mont Aigoul,6
+2016-11-10 14:53:57,089 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,20.5
+2016-11-10 14:53:57,091 INFO  sensorlogger - SensorLogger.java:19   - retour lecture P,BAR,2014-11-01,1014
+2016-11-10 14:53:57,091 INFO  sensorlogger - SensorLogger.java:19   - retour lecture H,25,
+2016-11-10 14:53:57,091 INFO  sensorlogger - SensorLogger.java:19   - retour lecture H
+2016-11-10 14:53:57,092 INFO  sensorlogger - SensorLogger.java:19   - ERROR ligne : H
+2016-11-10 14:53:57,092 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T
+2016-11-10 14:53:57,092 INFO  sensorlogger - SensorLogger.java:19   - ERROR ligne : T
+2016-11-10 14:53:57,092 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,21
+2016-11-10 14:53:57,092 INFO  sensorlogger - SensorLogger.java:19   - retour lecture P,BAR,2014-11-02,1014
+2016-11-10 14:53:57,092 INFO  sensorlogger - SensorLogger.java:19   - retour lecture H,25
+2016-11-10 14:53:57,092 INFO  sensorlogger - SensorLogger.java:19   - retour lecture Clapiers,9
+2016-11-10 14:53:57,092 INFO  sensorlogger - SensorLogger.java:19   - retour lecture P,BAR,2014-11-02,1012
+2016-11-10 14:53:57,092 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,24.3
+2016-11-10 14:53:57,094 INFO  sensorlogger - SensorLogger.java:19   - retour lecture P,BAR,2014-11-01,1001
+2016-11-10 14:53:57,094 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,22.2
+2016-11-10 14:53:57,094 INFO  sensorlogger - SensorLogger.java:19   - retour lecture H,1
+2016-11-10 14:53:57,094 INFO  sensorlogger - SensorLogger.java:19   - retour lecture P,BAR,2014-11-03,999
+2016-11-10 14:53:57,095 INFO  sensorlogger - SensorLogger.java:19   - retour lecture H,5
+2016-11-10 14:53:57,095 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,26.2
+2016-11-10 14:53:57,095 INFO  sensorlogger - SensorLogger.java:19   - retour lecture H,8
+2016-11-10 14:53:57,095 INFO  sensorlogger - SensorLogger.java:19   - retour lecture Montpellier,3
+2016-11-10 14:53:57,095 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,100
+2016-11-10 14:53:57,095 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,22.6
+2016-11-10 14:53:57,095 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,19.9
+2016-11-10 14:53:57,095 INFO  sensorlogger - SensorLogger.java:19   - retour lecture Paris,9
+2016-11-10 14:53:57,095 INFO  sensorlogger - SensorLogger.java:19   - retour lecture P,BAR,2014-11-02,1012
+2016-11-10 14:53:57,096 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,1
+2016-11-10 14:53:57,096 INFO  sensorlogger - SensorLogger.java:19   - retour lecture P,BAR,2014-11-01,1001
+2016-11-10 14:53:57,096 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,-50
+2016-11-10 14:53:57,096 INFO  sensorlogger - SensorLogger.java:19   - retour lecture H,95
+2016-11-10 14:53:57,096 INFO  sensorlogger - SensorLogger.java:19   - retour lecture P,BAR,2014-11-03,999
+2016-11-10 14:53:57,096 INFO  sensorlogger - SensorLogger.java:19   - retour lecture H,85
+2016-11-10 14:53:57,096 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,-1
+2016-11-10 14:53:57,097 INFO  sensorlogger - SensorLogger.java:19   - retour lecture H,88
+2016-11-10 14:59:23,242 INFO  sensorlogger - SensorLogger.java:19   - Démarrage de l'analyzer
+2016-11-10 14:59:23,246 INFO  sensorlogger - SensorLogger.java:19   - retour lecture #fichier qui roxxe
+2016-11-10 14:59:23,246 INFO  sensorlogger - SensorLogger.java:19   - retour lecture Mont Aigoul,6
+2016-11-10 14:59:23,250 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,20.5
+2016-11-10 14:59:23,252 INFO  sensorlogger - SensorLogger.java:19   - retour lecture P,BAR,2014-11-01,1014
+2016-11-10 14:59:23,252 INFO  sensorlogger - SensorLogger.java:19   - retour lecture H,25,
+2016-11-10 14:59:23,252 INFO  sensorlogger - SensorLogger.java:19   - retour lecture H
+2016-11-10 14:59:23,253 INFO  sensorlogger - SensorLogger.java:19   - ERROR ligne : H
+2016-11-10 14:59:23,253 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T
+2016-11-10 14:59:23,253 INFO  sensorlogger - SensorLogger.java:19   - ERROR ligne : T
+2016-11-10 14:59:23,253 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,21
+2016-11-10 14:59:23,253 INFO  sensorlogger - SensorLogger.java:19   - retour lecture P,BAR,2014-11-02,1014
+2016-11-10 14:59:23,253 INFO  sensorlogger - SensorLogger.java:19   - retour lecture H,25
+2016-11-10 14:59:23,253 INFO  sensorlogger - SensorLogger.java:19   - retour lecture Clapiers,9
+2016-11-10 14:59:23,253 INFO  sensorlogger - SensorLogger.java:19   - retour lecture P,BAR,2014-11-02,1012
+2016-11-10 14:59:23,254 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,24.3
+2016-11-10 14:59:23,255 INFO  sensorlogger - SensorLogger.java:19   - retour lecture P,BAR,2014-11-01,1001
+2016-11-10 14:59:23,255 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,22.2
+2016-11-10 14:59:23,255 INFO  sensorlogger - SensorLogger.java:19   - retour lecture H,1
+2016-11-10 14:59:23,256 INFO  sensorlogger - SensorLogger.java:19   - retour lecture P,BAR,2014-11-03,999
+2016-11-10 14:59:23,256 INFO  sensorlogger - SensorLogger.java:19   - retour lecture H,5
+2016-11-10 14:59:23,256 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,26.2
+2016-11-10 14:59:23,256 INFO  sensorlogger - SensorLogger.java:19   - retour lecture H,8
+2016-11-10 14:59:23,256 INFO  sensorlogger - SensorLogger.java:19   - retour lecture Montpellier,3
+2016-11-10 14:59:23,256 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,100
+2016-11-10 14:59:23,256 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,22.6
+2016-11-10 14:59:23,256 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,19.9
+2016-11-10 14:59:23,256 INFO  sensorlogger - SensorLogger.java:19   - retour lecture Paris,9
+2016-11-10 14:59:23,257 INFO  sensorlogger - SensorLogger.java:19   - retour lecture P,BAR,2014-11-02,1012
+2016-11-10 14:59:23,257 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,1
+2016-11-10 14:59:23,257 INFO  sensorlogger - SensorLogger.java:19   - retour lecture P,BAR,2014-11-01,1001
+2016-11-10 14:59:23,257 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,-50
+2016-11-10 14:59:23,257 INFO  sensorlogger - SensorLogger.java:19   - retour lecture H,95
+2016-11-10 14:59:23,257 INFO  sensorlogger - SensorLogger.java:19   - retour lecture P,BAR,2014-11-03,999
+2016-11-10 14:59:23,257 INFO  sensorlogger - SensorLogger.java:19   - retour lecture H,85
+2016-11-10 14:59:23,257 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,-1
+2016-11-10 14:59:23,258 INFO  sensorlogger - SensorLogger.java:19   - retour lecture H,88
+2016-11-10 15:04:28,132 INFO  sensorlogger - SensorLogger.java:19   - Démarrage de l'analyzer
+2016-11-10 15:04:28,136 INFO  sensorlogger - SensorLogger.java:19   - retour lecture #fichier qui roxxe
+2016-11-10 15:04:28,137 INFO  sensorlogger - SensorLogger.java:19   - retour lecture Mont Aigoul,6
+2016-11-10 15:04:28,140 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,20.5
+2016-11-10 15:04:28,142 INFO  sensorlogger - SensorLogger.java:19   - retour lecture P,BAR,2014-11-01,1014
+2016-11-10 15:04:28,142 INFO  sensorlogger - SensorLogger.java:19   - retour lecture H,25,
+2016-11-10 15:04:28,143 INFO  sensorlogger - SensorLogger.java:19   - retour lecture H
+2016-11-10 15:04:28,143 INFO  sensorlogger - SensorLogger.java:19   - ERROR ligne : H
+2016-11-10 15:04:28,143 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T
+2016-11-10 15:04:28,143 INFO  sensorlogger - SensorLogger.java:19   - ERROR ligne : T
+2016-11-10 15:04:28,144 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,21
+2016-11-10 15:04:28,144 INFO  sensorlogger - SensorLogger.java:19   - retour lecture P,BAR,2014-11-02,1014
+2016-11-10 15:04:28,144 INFO  sensorlogger - SensorLogger.java:19   - retour lecture H,25
+2016-11-10 15:04:28,144 INFO  sensorlogger - SensorLogger.java:19   - retour lecture Clapiers,9
+2016-11-10 15:04:28,144 INFO  sensorlogger - SensorLogger.java:19   - retour lecture P,BAR,2014-11-02,1012
+2016-11-10 15:04:28,144 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,24.3
+2016-11-10 15:04:28,146 INFO  sensorlogger - SensorLogger.java:19   - retour lecture P,BAR,2014-11-01,1001
+2016-11-10 15:04:28,147 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,22.2
+2016-11-10 15:04:28,147 INFO  sensorlogger - SensorLogger.java:19   - retour lecture H,1
+2016-11-10 15:04:28,147 INFO  sensorlogger - SensorLogger.java:19   - retour lecture P,BAR,2014-11-03,999
+2016-11-10 15:04:28,147 INFO  sensorlogger - SensorLogger.java:19   - retour lecture H,5
+2016-11-10 15:04:28,147 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,26.2
+2016-11-10 15:04:28,147 INFO  sensorlogger - SensorLogger.java:19   - retour lecture H,8
+2016-11-10 15:04:28,147 INFO  sensorlogger - SensorLogger.java:19   - retour lecture Montpellier,3
+2016-11-10 15:04:28,148 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,100
+2016-11-10 15:04:28,148 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,22.6
+2016-11-10 15:04:28,148 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,19.9
+2016-11-10 15:04:28,148 INFO  sensorlogger - SensorLogger.java:19   - retour lecture Paris,9
+2016-11-10 15:04:28,148 INFO  sensorlogger - SensorLogger.java:19   - retour lecture P,BAR,2014-11-02,1012
+2016-11-10 15:04:28,148 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,1
+2016-11-10 15:04:28,149 INFO  sensorlogger - SensorLogger.java:19   - retour lecture P,BAR,2014-11-01,1001
+2016-11-10 15:04:28,149 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,-50
+2016-11-10 15:04:28,149 INFO  sensorlogger - SensorLogger.java:19   - retour lecture H,95
+2016-11-10 15:04:28,149 INFO  sensorlogger - SensorLogger.java:19   - retour lecture P,BAR,2014-11-03,999
+2016-11-10 15:04:28,149 INFO  sensorlogger - SensorLogger.java:19   - retour lecture H,85
+2016-11-10 15:04:28,149 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,-1
+2016-11-10 15:04:28,149 INFO  sensorlogger - SensorLogger.java:19   - retour lecture H,88
+2016-11-10 15:11:41,718 INFO  sensorlogger - SensorLogger.java:19   - Démarrage de l'analyzer
+2016-11-10 15:11:41,724 INFO  sensorlogger - SensorLogger.java:19   - retour lecture #fichier qui roxxe
+2016-11-10 15:11:41,724 INFO  sensorlogger - SensorLogger.java:19   - retour lecture Mont Aigoul,6
+2016-11-10 15:11:41,729 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,20.5
+2016-11-10 15:11:41,731 INFO  sensorlogger - SensorLogger.java:19   - retour lecture P,BAR,2014-11-01,1014
+2016-11-10 15:11:41,732 INFO  sensorlogger - SensorLogger.java:19   - retour lecture H,25,
+2016-11-10 15:11:41,732 INFO  sensorlogger - SensorLogger.java:19   - retour lecture H
+2016-11-10 15:11:41,732 INFO  sensorlogger - SensorLogger.java:19   - ERROR ligne : H
+2016-11-10 15:11:41,732 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T
+2016-11-10 15:11:41,732 INFO  sensorlogger - SensorLogger.java:19   - ERROR ligne : T
+2016-11-10 15:11:41,732 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,21
+2016-11-10 15:11:41,733 INFO  sensorlogger - SensorLogger.java:19   - retour lecture P,BAR,2014-11-02,1014
+2016-11-10 15:11:41,733 INFO  sensorlogger - SensorLogger.java:19   - retour lecture H,25
+2016-11-10 15:11:41,733 INFO  sensorlogger - SensorLogger.java:19   - retour lecture Clapiers,9
+2016-11-10 15:11:41,733 INFO  sensorlogger - SensorLogger.java:19   - retour lecture P,BAR,2014-11-02,1012
+2016-11-10 15:11:41,733 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,24.3
+2016-11-10 15:11:41,735 INFO  sensorlogger - SensorLogger.java:19   - retour lecture P,BAR,2014-11-01,1001
+2016-11-10 15:11:41,735 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,22.2
+2016-11-10 15:11:41,735 INFO  sensorlogger - SensorLogger.java:19   - retour lecture H,1
+2016-11-10 15:11:41,735 INFO  sensorlogger - SensorLogger.java:19   - retour lecture P,BAR,2014-11-03,999
+2016-11-10 15:11:41,735 INFO  sensorlogger - SensorLogger.java:19   - retour lecture H,5
+2016-11-10 15:11:41,735 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,26.2
+2016-11-10 15:11:41,735 INFO  sensorlogger - SensorLogger.java:19   - retour lecture H,8
+2016-11-10 15:11:41,736 INFO  sensorlogger - SensorLogger.java:19   - retour lecture Montpellier,3
+2016-11-10 15:11:41,736 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,100
+2016-11-10 15:11:41,736 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,22.6
+2016-11-10 15:11:41,736 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,19.9
+2016-11-10 15:11:41,736 INFO  sensorlogger - SensorLogger.java:19   - retour lecture Paris,9
+2016-11-10 15:11:41,736 INFO  sensorlogger - SensorLogger.java:19   - retour lecture P,BAR,2014-11-02,1012
+2016-11-10 15:11:41,736 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,1
+2016-11-10 15:11:41,737 INFO  sensorlogger - SensorLogger.java:19   - retour lecture P,BAR,2014-11-01,1001
+2016-11-10 15:11:41,737 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,-50
+2016-11-10 15:11:41,737 INFO  sensorlogger - SensorLogger.java:19   - retour lecture H,95
+2016-11-10 15:11:41,737 INFO  sensorlogger - SensorLogger.java:19   - retour lecture P,BAR,2014-11-03,999
+2016-11-10 15:11:41,737 INFO  sensorlogger - SensorLogger.java:19   - retour lecture H,85
+2016-11-10 15:11:41,737 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,-1
+2016-11-10 15:11:41,737 INFO  sensorlogger - SensorLogger.java:19   - retour lecture H,88
+2016-11-10 15:13:11,639 INFO  sensorlogger - SensorLogger.java:19   - Démarrage de l'analyzer
+2016-11-10 15:13:11,645 INFO  sensorlogger - SensorLogger.java:19   - retour lecture #fichier qui roxxe
+2016-11-10 15:13:11,645 INFO  sensorlogger - SensorLogger.java:19   - retour lecture Mont Aigoul,6
+2016-11-10 15:13:11,649 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,20.5
+2016-11-10 15:13:11,652 INFO  sensorlogger - SensorLogger.java:19   - retour lecture P,BAR,2014-11-01,1014
+2016-11-10 15:13:11,652 INFO  sensorlogger - SensorLogger.java:19   - retour lecture H,25,
+2016-11-10 15:13:11,653 INFO  sensorlogger - SensorLogger.java:19   - retour lecture H
+2016-11-10 15:13:11,653 INFO  sensorlogger - SensorLogger.java:19   - ERROR ligne : H
+2016-11-10 15:13:11,653 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T
+2016-11-10 15:13:11,653 INFO  sensorlogger - SensorLogger.java:19   - ERROR ligne : T
+2016-11-10 15:13:11,653 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,21
+2016-11-10 15:13:11,653 INFO  sensorlogger - SensorLogger.java:19   - retour lecture P,BAR,2014-11-02,1014
+2016-11-10 15:13:11,653 INFO  sensorlogger - SensorLogger.java:19   - retour lecture H,25
+2016-11-10 15:13:11,654 INFO  sensorlogger - SensorLogger.java:19   - retour lecture Clapiers,9
+2016-11-10 15:13:11,654 INFO  sensorlogger - SensorLogger.java:19   - retour lecture P,BAR,2014-11-02,1012
+2016-11-10 15:13:11,654 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,24.3
+2016-11-10 15:13:11,656 INFO  sensorlogger - SensorLogger.java:19   - retour lecture P,BAR,2014-11-01,1001
+2016-11-10 15:13:11,656 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,22.2
+2016-11-10 15:13:11,656 INFO  sensorlogger - SensorLogger.java:19   - retour lecture H,1
+2016-11-10 15:13:11,656 INFO  sensorlogger - SensorLogger.java:19   - retour lecture P,BAR,2014-11-03,999
+2016-11-10 15:13:11,656 INFO  sensorlogger - SensorLogger.java:19   - retour lecture H,5
+2016-11-10 15:13:11,656 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,26.2
+2016-11-10 15:13:11,656 INFO  sensorlogger - SensorLogger.java:19   - retour lecture H,8
+2016-11-10 15:13:11,657 INFO  sensorlogger - SensorLogger.java:19   - retour lecture Montpellier,3
+2016-11-10 15:13:11,657 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,100
+2016-11-10 15:13:11,657 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,22.6
+2016-11-10 15:13:11,657 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,19.9
+2016-11-10 15:13:11,657 INFO  sensorlogger - SensorLogger.java:19   - retour lecture Paris,9
+2016-11-10 15:13:11,657 INFO  sensorlogger - SensorLogger.java:19   - retour lecture P,BAR,2014-11-02,1012
+2016-11-10 15:13:11,657 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,1
+2016-11-10 15:13:11,657 INFO  sensorlogger - SensorLogger.java:19   - retour lecture P,BAR,2014-11-01,1001
+2016-11-10 15:13:11,658 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,-50
+2016-11-10 15:13:11,658 INFO  sensorlogger - SensorLogger.java:19   - retour lecture H,95
+2016-11-10 15:13:11,658 INFO  sensorlogger - SensorLogger.java:19   - retour lecture P,BAR,2014-11-03,999
+2016-11-10 15:13:11,658 INFO  sensorlogger - SensorLogger.java:19   - retour lecture H,85
+2016-11-10 15:13:11,658 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,-1
+2016-11-10 15:13:11,658 INFO  sensorlogger - SensorLogger.java:19   - retour lecture H,88
+2016-11-10 15:15:09,784 INFO  sensorlogger - SensorLogger.java:19   - Démarrage de l'analyzer
+2016-11-10 15:15:09,791 INFO  sensorlogger - SensorLogger.java:19   - retour lecture #fichier qui roxxe
+2016-11-10 15:15:09,792 INFO  sensorlogger - SensorLogger.java:19   - retour lecture Mont Aigoul,6
+2016-11-10 15:15:09,796 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,20.5
+2016-11-10 15:15:09,799 INFO  sensorlogger - SensorLogger.java:19   - retour lecture P,BAR,2014-11-01,1014
+2016-11-10 15:15:09,799 INFO  sensorlogger - SensorLogger.java:19   - retour lecture H,25,
+2016-11-10 15:15:09,800 INFO  sensorlogger - SensorLogger.java:19   - retour lecture H
+2016-11-10 15:15:09,800 INFO  sensorlogger - SensorLogger.java:19   - ERROR ligne : H
+2016-11-10 15:15:09,800 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T
+2016-11-10 15:15:09,801 INFO  sensorlogger - SensorLogger.java:19   - ERROR ligne : T
+2016-11-10 15:15:09,801 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,21
+2016-11-10 15:15:09,801 INFO  sensorlogger - SensorLogger.java:19   - retour lecture P,BAR,2014-11-02,1014
+2016-11-10 15:15:09,801 INFO  sensorlogger - SensorLogger.java:19   - retour lecture H,25
+2016-11-10 15:15:09,801 INFO  sensorlogger - SensorLogger.java:19   - retour lecture Clapiers,9
+2016-11-10 15:15:09,801 INFO  sensorlogger - SensorLogger.java:19   - retour lecture P,BAR,2014-11-02,1012
+2016-11-10 15:15:09,801 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,24.3
+2016-11-10 15:15:09,805 INFO  sensorlogger - SensorLogger.java:19   - retour lecture P,BAR,2014-11-01,1001
+2016-11-10 15:15:09,805 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,22.2
+2016-11-10 15:15:09,805 INFO  sensorlogger - SensorLogger.java:19   - retour lecture H,1
+2016-11-10 15:15:09,805 INFO  sensorlogger - SensorLogger.java:19   - retour lecture P,BAR,2014-11-03,999
+2016-11-10 15:15:09,805 INFO  sensorlogger - SensorLogger.java:19   - retour lecture H,5
+2016-11-10 15:15:09,806 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,26.2
+2016-11-10 15:15:09,806 INFO  sensorlogger - SensorLogger.java:19   - retour lecture H,8
+2016-11-10 15:15:09,806 INFO  sensorlogger - SensorLogger.java:19   - retour lecture Montpellier,3
+2016-11-10 15:15:09,806 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,100
+2016-11-10 15:15:09,806 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,22.6
+2016-11-10 15:15:09,806 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,19.9
+2016-11-10 15:15:09,807 INFO  sensorlogger - SensorLogger.java:19   - retour lecture Paris,9
+2016-11-10 15:15:09,807 INFO  sensorlogger - SensorLogger.java:19   - retour lecture P,BAR,2014-11-02,1012
+2016-11-10 15:15:09,807 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,1
+2016-11-10 15:15:09,807 INFO  sensorlogger - SensorLogger.java:19   - retour lecture P,BAR,2014-11-01,1001
+2016-11-10 15:15:09,807 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,-50
+2016-11-10 15:15:09,807 INFO  sensorlogger - SensorLogger.java:19   - retour lecture H,95
+2016-11-10 15:15:09,808 INFO  sensorlogger - SensorLogger.java:19   - retour lecture P,BAR,2014-11-03,999
+2016-11-10 15:15:09,808 INFO  sensorlogger - SensorLogger.java:19   - retour lecture H,85
+2016-11-10 15:15:09,808 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,-1
+2016-11-10 15:15:09,808 INFO  sensorlogger - SensorLogger.java:19   - retour lecture H,88
+2016-11-10 15:50:00,133 INFO  sensorlogger - SensorLogger.java:19   - Démarrage de l'analyzer
+2016-11-10 15:50:00,137 INFO  sensorlogger - SensorLogger.java:19   - retour lecture #fichier qui roxxe
+2016-11-10 15:50:00,138 INFO  sensorlogger - SensorLogger.java:19   - retour lecture Mont Aigoul,6
+2016-11-10 15:50:00,141 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,20.5
+2016-11-10 15:50:00,143 INFO  sensorlogger - SensorLogger.java:19   - retour lecture P,BAR,2014-11-01,1014
+2016-11-10 15:50:00,144 INFO  sensorlogger - SensorLogger.java:19   - retour lecture H,25,
+2016-11-10 15:50:00,144 INFO  sensorlogger - SensorLogger.java:19   - retour lecture H
+2016-11-10 15:50:00,145 INFO  sensorlogger - SensorLogger.java:19   - ERROR ligne : H
+2016-11-10 15:50:00,145 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T
+2016-11-10 15:50:00,145 INFO  sensorlogger - SensorLogger.java:19   - ERROR ligne : T
+2016-11-10 15:50:00,145 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,21
+2016-11-10 15:50:00,145 INFO  sensorlogger - SensorLogger.java:19   - retour lecture P,BAR,2014-11-02,1014
+2016-11-10 15:50:00,145 INFO  sensorlogger - SensorLogger.java:19   - retour lecture H,25
+2016-11-10 15:50:00,145 INFO  sensorlogger - SensorLogger.java:19   - retour lecture Clapiers,9
+2016-11-10 15:50:00,145 INFO  sensorlogger - SensorLogger.java:19   - retour lecture P,BAR,2014-11-02,1012
+2016-11-10 15:50:00,146 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,24.3
+2016-11-10 15:50:00,148 INFO  sensorlogger - SensorLogger.java:19   - retour lecture P,BAR,2014-11-01,1001
+2016-11-10 15:50:00,148 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,22.2
+2016-11-10 15:50:00,148 INFO  sensorlogger - SensorLogger.java:19   - retour lecture H,1
+2016-11-10 15:50:00,149 INFO  sensorlogger - SensorLogger.java:19   - retour lecture P,BAR,2014-11-03,999
+2016-11-10 15:50:00,149 INFO  sensorlogger - SensorLogger.java:19   - retour lecture H,5
+2016-11-10 15:50:00,149 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,26.2
+2016-11-10 15:50:00,149 INFO  sensorlogger - SensorLogger.java:19   - retour lecture H,8
+2016-11-10 15:50:00,149 INFO  sensorlogger - SensorLogger.java:19   - retour lecture Montpellier,3
+2016-11-10 15:50:00,150 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,100
+2016-11-10 15:50:00,150 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,22.6
+2016-11-10 15:50:00,150 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,19.9
+2016-11-10 15:50:00,150 INFO  sensorlogger - SensorLogger.java:19   - retour lecture Paris,9
+2016-11-10 15:50:00,150 INFO  sensorlogger - SensorLogger.java:19   - retour lecture P,BAR,2014-11-02,1012
+2016-11-10 15:50:00,150 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,1
+2016-11-10 15:50:00,151 INFO  sensorlogger - SensorLogger.java:19   - retour lecture P,BAR,2014-11-01,1001
+2016-11-10 15:50:00,151 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,-50
+2016-11-10 15:50:00,151 INFO  sensorlogger - SensorLogger.java:19   - retour lecture H,95
+2016-11-10 15:50:00,151 INFO  sensorlogger - SensorLogger.java:19   - retour lecture P,BAR,2014-11-03,999
+2016-11-10 15:50:00,151 INFO  sensorlogger - SensorLogger.java:19   - retour lecture H,85
+2016-11-10 15:50:00,151 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,-1
+2016-11-10 15:50:00,151 INFO  sensorlogger - SensorLogger.java:19   - retour lecture H,88
+2016-11-10 17:38:29,149 INFO  sensorlogger - SensorLogger.java:19   - Démarrage de l'analyzer
+2016-11-10 17:38:29,153 INFO  sensorlogger - SensorLogger.java:19   - retour lecture #fichier qui roxxe
+2016-11-10 17:38:29,154 INFO  sensorlogger - SensorLogger.java:19   - retour lecture Mont Aigoul,6
+2016-11-10 17:38:29,157 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,20.5
+2016-11-10 17:38:29,159 INFO  sensorlogger - SensorLogger.java:19   - retour lecture P,BAR,2014-11-01,1014
+2016-11-10 17:38:29,160 INFO  sensorlogger - SensorLogger.java:19   - retour lecture H,25,
+2016-11-10 17:38:29,161 INFO  sensorlogger - SensorLogger.java:19   - retour lecture H
+2016-11-10 17:38:29,161 INFO  sensorlogger - SensorLogger.java:19   - ERROR ligne : H
+2016-11-10 17:38:29,161 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T
+2016-11-10 17:38:29,161 INFO  sensorlogger - SensorLogger.java:19   - ERROR ligne : T
+2016-11-10 17:38:29,161 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,21
+2016-11-10 17:38:29,161 INFO  sensorlogger - SensorLogger.java:19   - retour lecture P,BAR,2014-11-02,1014
+2016-11-10 17:38:29,161 INFO  sensorlogger - SensorLogger.java:19   - retour lecture H,25
+2016-11-10 17:38:29,161 INFO  sensorlogger - SensorLogger.java:19   - retour lecture Clapiers,9
+2016-11-10 17:38:29,162 INFO  sensorlogger - SensorLogger.java:19   - retour lecture P,BAR,2014-11-02,1012
+2016-11-10 17:38:29,162 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,24.3
+2016-11-10 17:38:29,164 INFO  sensorlogger - SensorLogger.java:19   - retour lecture P,BAR,2014-11-01,1001
+2016-11-10 17:38:29,164 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,22.2
+2016-11-10 17:38:29,164 INFO  sensorlogger - SensorLogger.java:19   - retour lecture H,1
+2016-11-10 17:38:29,164 INFO  sensorlogger - SensorLogger.java:19   - retour lecture P,BAR,2014-11-03,999
+2016-11-10 17:38:29,165 INFO  sensorlogger - SensorLogger.java:19   - retour lecture H,5
+2016-11-10 17:38:29,165 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,26.2
+2016-11-10 17:38:29,165 INFO  sensorlogger - SensorLogger.java:19   - retour lecture H,8
+2016-11-10 17:38:29,165 INFO  sensorlogger - SensorLogger.java:19   - retour lecture Montpellier,3
+2016-11-10 17:38:29,165 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,100
+2016-11-10 17:38:29,165 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,22.6
+2016-11-10 17:38:29,166 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,19.9
+2016-11-10 17:38:29,166 INFO  sensorlogger - SensorLogger.java:19   - retour lecture Paris,9
+2016-11-10 17:38:29,166 INFO  sensorlogger - SensorLogger.java:19   - retour lecture P,BAR,2014-11-02,1012
+2016-11-10 17:38:29,166 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,1
+2016-11-10 17:38:29,166 INFO  sensorlogger - SensorLogger.java:19   - retour lecture P,BAR,2014-11-01,1001
+2016-11-10 17:38:29,167 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,-50
+2016-11-10 17:38:29,167 INFO  sensorlogger - SensorLogger.java:19   - retour lecture H,95
+2016-11-10 17:38:29,167 INFO  sensorlogger - SensorLogger.java:19   - retour lecture P,BAR,2014-11-03,999
+2016-11-10 17:38:29,167 INFO  sensorlogger - SensorLogger.java:19   - retour lecture H,85
+2016-11-10 17:38:29,167 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,-1
+2016-11-10 17:38:29,167 INFO  sensorlogger - SensorLogger.java:19   - retour lecture H,88
+2016-11-10 18:09:15,867 INFO  sensorlogger - SensorLogger.java:19   - Démarrage de l'analyzer
+2016-11-10 18:09:15,871 INFO  sensorlogger - SensorLogger.java:19   - retour lecture #fichier qui roxxe
+2016-11-10 18:09:15,872 INFO  sensorlogger - SensorLogger.java:19   - retour lecture Mont Aigoul,6
+2016-11-10 18:09:15,875 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,20.5
+2016-11-10 18:09:15,876 INFO  sensorlogger - SensorLogger.java:19   - retour lecture P,BAR,2014-11-01,1014
+2016-11-10 18:09:15,877 INFO  sensorlogger - SensorLogger.java:19   - retour lecture H,25,
+2016-11-10 18:09:15,877 INFO  sensorlogger - SensorLogger.java:19   - retour lecture H
+2016-11-10 18:09:15,877 INFO  sensorlogger - SensorLogger.java:19   - ERROR ligne : H
+2016-11-10 18:09:15,877 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T
+2016-11-10 18:09:15,878 INFO  sensorlogger - SensorLogger.java:19   - ERROR ligne : T
+2016-11-10 18:09:15,878 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,21
+2016-11-10 18:09:15,878 INFO  sensorlogger - SensorLogger.java:19   - retour lecture P,BAR,2014-11-02,1014
+2016-11-10 18:09:15,878 INFO  sensorlogger - SensorLogger.java:19   - retour lecture H,25
+2016-11-10 18:09:15,878 INFO  sensorlogger - SensorLogger.java:19   - retour lecture Clapiers,9
+2016-11-10 18:09:15,878 INFO  sensorlogger - SensorLogger.java:19   - retour lecture P,BAR,2014-11-02,1012
+2016-11-10 18:09:15,878 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,24.3
+2016-11-10 18:09:15,880 INFO  sensorlogger - SensorLogger.java:19   - retour lecture P,BAR,2014-11-01,1001
+2016-11-10 18:09:15,880 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,22.2
+2016-11-10 18:09:15,880 INFO  sensorlogger - SensorLogger.java:19   - retour lecture H,1
+2016-11-10 18:09:15,880 INFO  sensorlogger - SensorLogger.java:19   - retour lecture P,BAR,2014-11-03,999
+2016-11-10 18:09:15,880 INFO  sensorlogger - SensorLogger.java:19   - retour lecture H,5
+2016-11-10 18:09:15,880 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,26.2
+2016-11-10 18:09:15,881 INFO  sensorlogger - SensorLogger.java:19   - retour lecture H,8
+2016-11-10 18:09:15,881 INFO  sensorlogger - SensorLogger.java:19   - retour lecture Montpellier,3
+2016-11-10 18:09:15,881 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,100
+2016-11-10 18:09:15,881 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,22.6
+2016-11-10 18:09:15,881 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,19.9
+2016-11-10 18:09:15,881 INFO  sensorlogger - SensorLogger.java:19   - retour lecture Paris,9
+2016-11-10 18:09:15,881 INFO  sensorlogger - SensorLogger.java:19   - retour lecture P,BAR,2014-11-02,1012
+2016-11-10 18:09:15,881 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,1
+2016-11-10 18:09:15,882 INFO  sensorlogger - SensorLogger.java:19   - retour lecture P,BAR,2014-11-01,1001
+2016-11-10 18:09:15,882 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,-50
+2016-11-10 18:09:15,882 INFO  sensorlogger - SensorLogger.java:19   - retour lecture H,95
+2016-11-10 18:09:15,882 INFO  sensorlogger - SensorLogger.java:19   - retour lecture P,BAR,2014-11-03,999
+2016-11-10 18:09:15,882 INFO  sensorlogger - SensorLogger.java:19   - retour lecture H,85
+2016-11-10 18:09:15,882 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,-1
+2016-11-10 18:09:15,882 INFO  sensorlogger - SensorLogger.java:19   - retour lecture H,88
+2016-11-14 10:20:24,530 INFO  sensorlogger - SensorLogger.java:19   - Démarrage de l'analyzer
+2016-11-14 10:20:24,559 INFO  sensorlogger - SensorLogger.java:19   - retour lecture #fichier qui roxxe
+2016-11-14 10:20:24,560 INFO  sensorlogger - SensorLogger.java:19   - retour lecture Mont Aigoul,6
+2016-11-14 10:20:24,563 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,20.5
+2016-11-14 10:20:24,565 INFO  sensorlogger - SensorLogger.java:19   - retour lecture P,BAR,2014-11-01,1014
+2016-11-14 10:20:24,565 INFO  sensorlogger - SensorLogger.java:19   - retour lecture H,25,
+2016-11-14 10:20:24,565 INFO  sensorlogger - SensorLogger.java:19   - retour lecture H
+2016-11-14 10:20:24,565 INFO  sensorlogger - SensorLogger.java:19   - ERROR ligne : H
+2016-11-14 10:20:24,566 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T
+2016-11-14 10:20:24,566 INFO  sensorlogger - SensorLogger.java:19   - ERROR ligne : T
+2016-11-14 10:20:24,566 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,21
+2016-11-14 10:20:24,566 INFO  sensorlogger - SensorLogger.java:19   - retour lecture P,BAR,2014-11-02,1014
+2016-11-14 10:20:24,566 INFO  sensorlogger - SensorLogger.java:19   - retour lecture H,25
+2016-11-14 10:20:24,566 INFO  sensorlogger - SensorLogger.java:19   - retour lecture Clapiers,9
+2016-11-14 10:20:24,566 INFO  sensorlogger - SensorLogger.java:19   - retour lecture P,BAR,2014-11-02,1012
+2016-11-14 10:20:24,566 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,24.3
+2016-11-14 10:20:24,568 INFO  sensorlogger - SensorLogger.java:19   - retour lecture P,BAR,2014-11-01,1001
+2016-11-14 10:20:24,568 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,22.2
+2016-11-14 10:20:24,568 INFO  sensorlogger - SensorLogger.java:19   - retour lecture H,1
+2016-11-14 10:20:24,568 INFO  sensorlogger - SensorLogger.java:19   - retour lecture P,BAR,2014-11-03,999
+2016-11-14 10:20:24,568 INFO  sensorlogger - SensorLogger.java:19   - retour lecture H,5
+2016-11-14 10:20:24,569 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,26.2
+2016-11-14 10:20:24,569 INFO  sensorlogger - SensorLogger.java:19   - retour lecture H,8
+2016-11-14 10:20:24,569 INFO  sensorlogger - SensorLogger.java:19   - retour lecture Montpellier,3
+2016-11-14 10:20:24,569 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,100
+2016-11-14 10:20:24,569 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,22.6
+2016-11-14 10:20:24,569 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,19.9
+2016-11-14 10:20:24,569 INFO  sensorlogger - SensorLogger.java:19   - retour lecture Paris,9
+2016-11-14 10:20:24,569 INFO  sensorlogger - SensorLogger.java:19   - retour lecture P,BAR,2014-11-02,1012
+2016-11-14 10:20:24,570 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,1
+2016-11-14 10:20:24,570 INFO  sensorlogger - SensorLogger.java:19   - retour lecture P,BAR,2014-11-01,1001
+2016-11-14 10:20:24,570 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,-50
+2016-11-14 10:20:24,570 INFO  sensorlogger - SensorLogger.java:19   - retour lecture H,95
+2016-11-14 10:20:24,570 INFO  sensorlogger - SensorLogger.java:19   - retour lecture P,BAR,2014-11-03,999
+2016-11-14 10:20:24,570 INFO  sensorlogger - SensorLogger.java:19   - retour lecture H,85
+2016-11-14 10:20:24,570 INFO  sensorlogger - SensorLogger.java:19   - retour lecture T,C,-1
+2016-11-14 10:20:24,570 INFO  sensorlogger - SensorLogger.java:19   - retour lecture H,88

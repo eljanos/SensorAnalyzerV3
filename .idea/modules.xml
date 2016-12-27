@@ -6,7 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/MSHPOAInputReader/MSHPOAInputReader.iml" filepath="$PROJECT_DIR$/MSHPOAInputReader/MSHPOAInputReader.iml" />
       <module fileurl="file://$PROJECT_DIR$/PSensor/PSensor.iml" filepath="$PROJECT_DIR$/PSensor/PSensor.iml" />
       <module fileurl="file://$PROJECT_DIR$/SensorAnalyzer/SensorAnalyzer.iml" filepath="$PROJECT_DIR$/SensorAnalyzer/SensorAnalyzer.iml" />
-      <module fileurl="file://$PROJECT_DIR$/SensorAnalyzerV3.iml" filepath="$PROJECT_DIR$/SensorAnalyzerV3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/SensorAnalyzerV3.iml" filepath="$PROJECT_DIR$/.idea/SensorAnalyzerV3.iml" />
       <module fileurl="file://$PROJECT_DIR$/TSensor/TSensor.iml" filepath="$PROJECT_DIR$/TSensor/TSensor.iml" />
       <module fileurl="file://$PROJECT_DIR$/common/common.iml" filepath="$PROJECT_DIR$/common/common.iml" />
       <module fileurl="file://$PROJECT_DIR$/runnable/runnable.iml" filepath="$PROJECT_DIR$/runnable/runnable.iml" />

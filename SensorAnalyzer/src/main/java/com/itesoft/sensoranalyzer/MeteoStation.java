@@ -71,7 +71,7 @@ public class MeteoStation {
     /**
      * Renvoie tous les capteurs de la station
      *
-     * @param sensorType Un String contenant le type de capteur (T,P,C)
+     * @param type Un String contenant le type de capteur (T,P,C)
      * @return un ArrayList de d'objets Sensors
      */
 

@@ -38,23 +38,23 @@ public class MSHPOAInputReader implements InputReaders {
      *
      * @return String ligne d'information formattée
      */
-    public String[] getInformationLine() {
+    public String[] getInformationLine() throws SensorLineException {
+
         String ligne = "";
         String[] ligneSplitte = null;
 
+
         try {
             ligne = br.readLine();
+
             if (ligne == null) {
                 return null;
             }
-        } catch (IOException e) {
-            SensorLogger.log(e.getStackTrace().toString());
-            ligne = null;
-        }
 
-        SensorLogger.log("retour lecture " + ligne);
 
-        try {
+            SensorLogger.log("retour lecture " + ligne);
+
+
 
             //Gestion des lignes de commentaire
             if (ligne.substring(0, 1).equals("#")) {
@@ -75,16 +75,21 @@ public class MSHPOAInputReader implements InputReaders {
                 String retourFormat = ligneSplitte[0] + "," + ligneSplitte[1] + "," + ligneSplitte[3] + "," + ligneSplitte[2];
                 return retourFormat.split(",");
             }
-        } catch (StringIndexOutOfBoundsException e) {
-            SensorLogger.log("ERROR ligne : " + ligne);
-            ligne = "ERROR," + ligne;
-            ligneSplitte = ligne.split(",");
-        }
 
+        } catch (StringIndexOutOfBoundsException | IOException e ) {
+            throw new SensorLineException(filePath);
+
+//            SensorLogger.log("ERROR ligne : " + ligne);
+//            ligne = "ERROR," + ligne;
+//            ligneSplitte = ligne.split(",");
+        }
 
         return ligneSplitte;
 
     }
+
+
+
 
     /**
      * Ouvre la source de donnée pour l'instant définie en dur

@@ -6,6 +6,12 @@ package com.itesoft.sensor;
 
 public class TSensor extends Sensor {
 
+    public enum  SensorType{
+        H,
+        T,
+        P;
+    }
+
     /**
      * @param u    String unité de la mesure
      * @param t    String donnée de la mesure

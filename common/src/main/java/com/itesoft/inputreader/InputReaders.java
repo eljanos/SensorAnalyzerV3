@@ -32,6 +32,6 @@ public interface InputReaders {
      * Type peut contenir COMMENT si c'est une ligne de commentaire
      * Type peut contenir ERROR si c'est une ligne mal structurée ( unité contiendra alors la ligne )
      */
-    public String[] getInformationLine();
+    public String[] getInformationLine() throws SensorLineException;
 
 }

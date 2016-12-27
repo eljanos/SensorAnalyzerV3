@@ -1,6 +1,7 @@
 package com.itesoft.sensoranalyzer;
 
 import com.itesoft.inputreader.InputReaders;
+import com.itesoft.inputreader.SensorLineException;
 import com.itesoft.logger.SensorLogger;
 
 import java.util.ArrayList;
@@ -50,7 +51,7 @@ public class MesureContainer {
      * @input InputReader reader de capteurs
      */
 
-    public Boolean fillWithData(InputReaders reader) {
+    public Boolean fillWithData(InputReaders reader) throws SensorLineException {
 
         Integer nbCapteurs = 0;
         Integer nbCapteursAttendus = 0;
@@ -64,7 +65,6 @@ public class MesureContainer {
         try {
 
             while (ligne != null) {
-
 
                 if (ligne[0].equals("ERROR")) {
                     if (currentStation != null) {

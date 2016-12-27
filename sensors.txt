@@ -1,4 +1,3 @@
-#fichier qui roxxe
 Mont Aigoul,6
 T,C,20.5
 P,BAR,2014-11-01,1014
